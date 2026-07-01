@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2287: for Floccus bookmark sync browser extension -->
+<!--- highestId :2362: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -24,9 +24,6 @@
     <title>General</title>
     <bookmark href="https://carey.jhu.edu/student-life/student-resources/academic-calendar" id="43">
       <title>Academic Calendar | JHU Carey Business School</title>
-    </bookmark>
-    <bookmark href="https://m365.cloud.microsoft/chat/?from=PortalHome&amp;auth=2&amp;origindomain=microsoft365&amp;client-request-id=b78380e6-a722-45c8-bd79-344175a1e7d6" id="44">
-      <title>Chat | M365 Copilot</title>
     </bookmark>
     <bookmark href="https://carey.jhu.edu/student-life/student-resources/registrar/course-add-drop" id="45">
       <title>Course adds and drops | JHU Carey Business School</title>
@@ -88,6 +85,9 @@
   </bookmark>
   <bookmark href="edge://settings/downloads" id="2203">
     <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="https://m365.cloud.microsoft/chat/?from=PortalHome&amp;auth=2&amp;origindomain=microsoft365&amp;client-request-id=b78380e6-a722-45c8-bd79-344175a1e7d6" id="44">
+    <title>Chat | M365 Copilot</title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -6860,5 +6860,230 @@
   <bookmark href="https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity" id="2286">
     <title>China’s Z.ai claims it can match Mythos on cybersecurity | The Verge</title>
   </bookmark>
+</folder>
+<folder id="2288">
+  <title>Institutions</title>
+  <folder id="2289">
+    <title>OHSU</title>
+    <folder id="2290">
+      <title>BMHI</title>
+      <bookmark href="https://search.vivli.org/" id="2294">
+        <title>Vivli</title>
+      </bookmark>
+      <bookmark href="https://www.ohdsi.org/" id="2295">
+        <title>OHDSI – Observational Health Data Sciences and Informatics</title>
+      </bookmark>
+      <bookmark href="https://ctsa.ncats.nih.gov/cd2h/" id="2296">
+        <title>CD2H</title>
+      </bookmark>
+      <bookmark href="https://commonfund.nih.gov/" id="2297">
+        <title>NIH Common Fund |</title>
+      </bookmark>
+      <bookmark href="https://orbit.nlm.nih.gov/" id="2298">
+        <title>Home</title>
+      </bookmark>
+      <bookmark href="https://sqlzoo.net/" id="2299">
+        <title>SQLZOO</title>
+      </bookmark>
+      <bookmark href="https://www.internetworldstats.com/stats.htm" id="2300">
+        <title>World Internet Users Statistics and 2019 World Population Stats</title>
+      </bookmark>
+      <bookmark href="https://ehrseewhatwemean.org/" id="2301">
+        <title>Home - EHRseewhatwemean</title>
+      </bookmark>
+      <bookmark href="https://sbmi.uth.edu/nccd/turf/" id="2302">
+        <title>EHR Usability Toolkit - Turf Usability Software - NCCD - The University of Texas Health Science Center at Houston (UTHealth) School of Biomedical Informatics</title>
+      </bookmark>
+      <bookmark href="https://www.open-emr.org/" id="2303">
+        <title>OpenEMR</title>
+      </bookmark>
+      <bookmark href="http://www.worldvista.org/" id="2304">
+        <title>Welcome to the WorldVistA homepage</title>
+      </bookmark>
+      <bookmark href="https://www.openehr.org/" id="2305">
+        <title>User home</title>
+      </bookmark>
+      <bookmark href="https://librehealth.io/" id="2306">
+        <title>LibreHealth</title>
+      </bookmark>
+      <bookmark href="https://www.webmd.com/phr" id="2307">
+        <title>WebMD Health Manager - Personalize and Manage Your Health</title>
+      </bookmark>
+      <bookmark href="https://www.apple.com/healthcare/health-records/" id="2308">
+        <title>Healthcare - Health Records - Apple</title>
+      </bookmark>
+      <bookmark href="https://www.iso.org/committee/54960.html" id="2309">
+        <title>ISO - ISO/TC 215 - Health informatics</title>
+      </bookmark>
+      <bookmark href="https://argonautwiki.hl7.org/index.php?title=Main_Page" id="2310">
+        <title>HL7 Argonaut Project Wiki</title>
+      </bookmark>
+      <bookmark href="https://www.interoperabilityshowcase.org/" id="2311">
+        <title>| HIMSS Interoperability Showcase</title>
+      </bookmark>
+      <bookmark href="https://www.ihe.net/resources/profiles/" id="2312">
+        <title>Profiles - IHE International</title>
+      </bookmark>
+      <bookmark href="https://www.ncpdp.org/home" id="2313">
+        <title>NCPDP.org - NCPDP</title>
+      </bookmark>
+      <bookmark href="https://ncpdp.org/Resources/ePrescribing" id="2314">
+        <title>NCPDP.org - ePrescribing Industry Information</title>
+      </bookmark>
+      <bookmark href="https://bluebutton.cms.gov/" id="2315">
+        <title>Blue Button 2.0</title>
+      </bookmark>
+      <bookmark href="https://www.icd10illustrated.com/" id="2316">
+        <title>ICD-10 Codes | Books | Humor | ICD-10 Illustrated – ICD-10 Illustrated: Books, Posters &amp; PowerPoint Presentations</title>
+      </bookmark>
+      <bookmark href="https://www.icd10data.com/" id="2317">
+        <title>The Web&amp;#39;s Free 2019/2020 ICD-10-CM/PCS Medical Coding Reference</title>
+      </bookmark>
+      <bookmark href="http://www.egdutton2.com/research/resources/terminology/fmt.html" id="2318">
+        <title>Federal Medication Terminologies - National Cancer Institute</title>
+      </bookmark>
+      <bookmark href="https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory" id="2319">
+        <title>National Drug Code Directory | FDA</title>
+      </bookmark>
+      <bookmark href="https://rxnav.nlm.nih.gov/" id="2320">
+        <title>RxNav Home Page</title>
+      </bookmark>
+      <bookmark href="https://rxnav.nlm.nih.gov/RxImageAPIs.html" id="2321">
+        <title>RxImage API</title>
+      </bookmark>
+      <bookmark href="https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo/index" id="2322">
+        <title>HCPCS - General Information | CMS</title>
+      </bookmark>
+      <bookmark href="http://www.snomed.org/" id="2323">
+        <title>SNOMED - Home | SNOMED International</title>
+      </bookmark>
+      <bookmark href="https://browser.ihtsdotools.org/" id="2324">
+        <title>https://browser.ihtsdotools.org/?</title>
+      </bookmark>
+      <bookmark href="http://models.opencimi.org/cimi_doc/" id="2325">
+        <title>Overview (CIMI Reference Model)</title>
+      </bookmark>
+      <bookmark href="https://www.imohealth.com/" id="2326">
+        <title>IMO: Leveraging EHR Data For Better Patient Care</title>
+      </bookmark>
+      <bookmark href="https://www.hddaccess.com/" id="2327">
+        <title>Home of 3M Healthcare Data Dictionary and HDD Access - HDD Access</title>
+      </bookmark>
+      <bookmark href="http://hl7.org/fhir/overview-arch.html" id="2328">
+        <title>Overview-arch - FHIR v4.0.1</title>
+      </bookmark>
+      <bookmark href="http://fhir.cerner.com/" id="2329">
+        <title>Cerner | Home</title>
+      </bookmark>
+      <bookmark href="https://www.medicare.gov/hospitalcompare/data/hospital-vbp.html" id="2330">
+        <title>About Hospital Compare Data Overview</title>
+      </bookmark>
+      <bookmark href="https://n2c2.dbmi.hms.harvard.edu/" id="2331">
+        <title>N2C2: National NLP Clinical Challenges</title>
+      </bookmark>
+      <bookmark href="https://clamp.uth.edu/" id="2332">
+        <title>CLAMP | Natural Language Processing (NLP) Software</title>
+      </bookmark>
+      <bookmark href="https://www.teladoc.com/" id="2333">
+        <title>Talk to a doctor online in minutes | Teladoc</title>
+      </bookmark>
+      <bookmark href="https://clarivate.com/webofsciencegroup/solutions/web-of-science/" id="2334">
+        <title>Web of Science - Web of Science Group</title>
+      </bookmark>
+      <bookmark href="https://www.chcf.org/project/elincs-the-national-lab-data-standard-for-electronic-health-records/" id="2335">
+        <title>ELINCS: The National Lab Data Standard for Electronic Health Records - California Health Care Foundation</title>
+      </bookmark>
+      <bookmark href="https://loinc.org/relma/" id="2336">
+        <title>RELMA – LOINC</title>
+      </bookmark>
+      <bookmark href="http://clinfhir.com/" id="2337">
+        <title>clinFHIR Launcher</title>
+      </bookmark>
+      <bookmark href="https://www.healthit.gov/topic/certification-ehrs/about-onc-health-it-certification-program" id="2338">
+        <title>About The ONC Health IT Certification Program | HealthIT.gov</title>
+      </bookmark>
+    </folder>
+    <folder id="2291">
+      <title>BMI 544</title>
+      <bookmark href="https://learning.oreilly.com/library/view/databases-illuminated-3rd/9781284056945/#toc" id="2339">
+        <title>Databases Illuminated, 3rd Edition</title>
+      </bookmark>
+      <bookmark href="https://sakai.ohsu.edu/portal/site/BMI-544-OL-AM-W21/tool/1ce9fd92-beba-42d5-9055-515cc76105ca" id="2340">
+        <title>544</title>
+      </bookmark>
+      <bookmark href="https://erdplus.com/standalone" id="2341">
+        <title>ERDPlus</title>
+      </bookmark>
+    </folder>
+    <folder id="2292">
+      <title>BMI 507</title>
+      <folder id="2342">
+        <title>RapidMiner General</title>
+        <bookmark href="https://academy.rapidminer.com/learn/video/rapidminer-studio-gui-intro" id="2344">
+          <title>What is what introduction for RapidMiner | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/visualizing-data-in-rapidminer" id="2345">
+          <title>How to create charts and graphs | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/importing-data-in-rapidminer-studio" id="2346">
+          <title>How to import data to a Repository | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/creating-a-decision-tree-model" id="2347">
+          <title>How to create a decision Tree Model | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/applying-the-model" id="2348">
+          <title>Creating a prediction with a model | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/testing-a-model" id="2349">
+          <title>How to determine a models performance | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/validating-a-model" id="2350">
+          <title>Cross Validation and model performance| RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/optimization-of-the-model-parameters" id="2351">
+          <title>Tune a model for optimal performance | RapidMiner Studio</title>
+        </bookmark>
+      </folder>
+      <folder id="2343">
+        <title>RapidMiner AI</title>
+        <bookmark href="https://academy.rapidminer.com/learn/article/understanding-k-nearest-neighbors-algorithms" id="2352">
+          <title>Understanding K Nearest Neighbors Algorithms</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/logistic-regression-intro" id="2353">
+          <title>Logistic Regression intro</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/decision-tree-demo" id="2354">
+          <title>Decision Tree demo | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/introduction-to-ensembles" id="2355">
+          <title>Introduction to Ensembles | RapidMiner</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/article/ensemble-models-diversity-works-like-magic" id="2356">
+          <title>Why many models combined have a smaller error</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/workshop-random-forest" id="2357">
+          <title>Random Forest demo | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/svm-intro" id="2358">
+          <title>SVM intro</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/finding-the-right-model" id="2359">
+          <title>Machine Learning and RapidMiner Tutorials | RapidMiner Academy</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/automated-model-selection-and-optimization" id="2360">
+          <title>Machine Learning and RapidMiner Tutorials | RapidMiner Academy</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/svm-demo" id="2361">
+          <title>SVM demo | RapidMiner Studio</title>
+        </bookmark>
+        <bookmark href="https://academy.rapidminer.com/learn/video/neural-nets-intro" id="2362">
+          <title>RapidMiner</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <bookmark href="https://sisweb.ohsu.edu/SISPRD/twbkwbis.P_WWWLogin" id="2293">
+      <title>OHSU User Login</title>
+    </bookmark>
+  </folder>
 </folder>
 </xbel>
