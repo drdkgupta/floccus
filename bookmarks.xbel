@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2203: for Floccus bookmark sync browser extension -->
+<!--- highestId :2204: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -616,6 +616,9 @@
   </folder>
   <bookmark href="chrome-extension://fnaicdffflnofjppbagibeoednhnbjhg/dist/html/options.html#/options/17828674254530.7776818635072281" id="2200">
     <title>Floccus bookmark sync</title>
+  </bookmark>
+  <bookmark href="chrome-extension://gjkddcofhiifldbllobcamllmanombji/dist/html/options.html#/options/17828704204280.26632030362925696" id="2204">
+    <title>Edge Floccus bookmark sync</title>
   </bookmark>
   <bookmark href="https://www.usvisascheduling.com/en-US/" id="32">
     <title>Visa Application Home  · Customer Self-Service</title>
