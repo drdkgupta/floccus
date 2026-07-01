@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2363: for Floccus bookmark sync browser extension -->
+<!--- highestId :2364: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -89,7 +89,7 @@
   <bookmark href="edge://settings/downloads" id="2203">
     <title>Settings - Downloads</title>
   </bookmark>
-  <bookmark href="chrome://settings/downloads" id="2363">
+  <bookmark href="edge://settings/downloads" id="2364">
     <title>Settings - Downloads</title>
   </bookmark>
 </folder>
@@ -521,7 +521,7 @@
       <title>NO Waste Compost Curb Resource Collection Customer Portal</title>
     </bookmark>
     <bookmark href="https://catalyst.uvm.edu/psc/FSPRD/EMPLOYEE/ERP/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL" id="149">
-      <title>UVM </title>
+      <title>UVM</title>
     </bookmark>
   </folder>
   <folder id="31">
@@ -4424,7 +4424,7 @@
       <title>Staples 2-Pocket Folder, Dark Blue, 10/PK (13377-CC) | Staples</title>
     </bookmark>
     <bookmark href="https://systemsbiology.columbia.edu/courses" id="1471">
-      <title>Courses in Systems Biology and Computational Biology </title>
+      <title>Courses in Systems Biology and Computational Biology</title>
     </bookmark>
   </folder>
   <folder id="1035">
@@ -5664,7 +5664,7 @@
           <title>Learn Applied Data Science with Python - Free Courses by Cognitive Class</title>
         </bookmark>
         <bookmark href="https://cognitiveclass.ai/learn/data-science/" id="1885">
-          <title>Data Science Fundamentals </title>
+          <title>Data Science Fundamentals</title>
         </bookmark>
       </folder>
       <folder id="1774">
@@ -5923,28 +5923,28 @@
         <title>Adjustments and Extensions | Participants | J-1 Visa</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=325&amp;term=&amp;section&amp;action=Search" id="1784">
-        <title>CTS 325. Multi Analysis Clin&amp;Trans Res. 3 Credits. </title>
+        <title>CTS 325. Multi Analysis Clin&amp;Trans Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=301&amp;term=&amp;section&amp;action=Search" id="1785">
-        <title>CTS 301. Design Clin&amp;Translational Res. 3 Credits. </title>
+        <title>CTS 301. Design Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=305&amp;term=&amp;section&amp;action=Search" id="1786">
-        <title>CTS 305. Cell To Society I. 2 Credits. </title>
+        <title>CTS 305. Cell To Society I. 2 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=315&amp;term=&amp;section&amp;action=Search" id="1787">
-        <title>CTS 315. Report Clin&amp;Translational Res. 3 Credits. </title>
+        <title>CTS 315. Report Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=306&amp;term=&amp;section&amp;action=Search" id="1788">
-        <title>CTS 306. Cell To Society II. 2 Credits. </title>
+        <title>CTS 306. Cell To Society II. 2 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=310&amp;term=&amp;section&amp;action=Search" id="1789">
-        <title>CTS 310. Conduct Clin&amp;Translational Res. 3 Credits. </title>
+        <title>CTS 310. Conduct Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=385&amp;term=&amp;section&amp;action=Search" id="1790">
-        <title>CTS 385. Independent Study in CTS. 1-6 Credits. </title>
+        <title>CTS 385. Independent Study in CTS. 1-6 Credits.</title>
       </bookmark>
       <bookmark href="http://contentmanager.med.uvm.edu/docs/vic/medical-education-documents/vic.pdf?sfvrsn=2" id="1875">
-        <title>Vermont Integrated Curriculum </title>
+        <title>Vermont Integrated Curriculum</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.kidsvt.com/vermont/EventSearch?narrowByDate=Today&amp;neighborhood=2124499" id="1748">
