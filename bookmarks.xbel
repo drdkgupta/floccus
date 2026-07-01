@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2286: for Floccus bookmark sync browser extension -->
+<!--- highestId :2287: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -3691,6 +3691,9 @@
         </bookmark>
         <bookmark href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html" id="1384">
           <title>pandas.DataFrame.replace — pandas 1.2.4 documentation</title>
+        </bookmark>
+        <bookmark href="edge://restart/" id="2287">
+          <title>Restart</title>
         </bookmark>
       </folder>
       <bookmark href="http://localhost:8888/tree/OneDrive/OHSU%20Masters%20BMHI/Courses/07-2021-Spring-BMI%20507/Homework/Week%2002" id="1170">
