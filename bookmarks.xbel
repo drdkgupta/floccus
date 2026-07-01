@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2204: for Floccus bookmark sync browser extension -->
+<!--- highestId :2286: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6611,5 +6611,251 @@
 </folder>
 <folder id="2202">
   <title>Floccus (Github)</title>
+</folder>
+<folder id="2205">
+  <title>Old Reading List</title>
+  <bookmark href="https://www.statnews.com/2026/06/11/open-access-journal-fees-nature-wiley-elsevier-nih/" id="2206">
+    <title>Open-access fees keep NIH-funded research from public | STAT</title>
+  </bookmark>
+  <bookmark href="https://9to5mac.com/2026/06/10/apple-is-giving-screen-time-and-parental-controls-a-long-overdue-upgrade-in-ios-27/" id="2207">
+    <title>Apple is giving Screen Time and parental controls a long overdue upgrade in iOS 27 - 9to5Mac</title>
+  </bookmark>
+  <bookmark href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2850075" id="2208">
+    <title>Pathology and Genetics in a Global Cohort of Parkinsonian Disorders | Genetics and Genomics | JAMA Neurology | JAMA Network</title>
+  </bookmark>
+  <bookmark href="https://towardsdatascience.com/automate-writing-your-llm-prompts/" id="2209">
+    <title>Automate Writing Your LLM Prompts | Towards Data Science</title>
+  </bookmark>
+  <bookmark href="https://www.toyota.com/configurator/?bap_guid=17a228cd-659a-429f-b414-e7eb8bba81ef" id="2210">
+    <title>Build Your Own Toyota | Toyota Configurator</title>
+  </bookmark>
+  <bookmark href="https://www.statnews.com/2026/04/30/nih-grant-funding-national-stat-survey-impact-labs-careers/" id="2211">
+    <title>NIH grants are more competitive and complicated | STAT</title>
+  </bookmark>
+  <bookmark href="https://www.tomsguide.com/phones/tin-can-everything-you-need-to-know-about-the-viral-screen-free-phone-for-kids" id="2212">
+    <title>Tin Can: Everything you need to know about the viral screen-free phone for kids | Tom&apos;s Guide</title>
+  </bookmark>
+  <bookmark href="https://medium.com/macoclock/one-month-later-and-the-macbook-neo-wont-go-away-cdf8757a9f57" id="2213">
+    <title>One Month Later And The MacBook Neo Won’t Go Away | by Mark Ellis | Mac O’Clock | Apr, 2026 | Medium</title>
+  </bookmark>
+  <bookmark href="https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist" id="2214">
+    <title>NPR interviews leader of RSS, world&apos;s largest right-wing group : NPR</title>
+  </bookmark>
+  <bookmark href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/04/22/copilots-agentic-capabilities-in-word-excel-and-powerpoint-are-generally-available/" id="2215">
+    <title>Copilot&apos;s agentic capabilities in Word, Excel, and PowerPoint are generally available | Microsoft 365 Blog</title>
+  </bookmark>
+  <bookmark href="https://newengland.himss.org/moment-mentor-program-ne-himss" id="2216">
+    <title>New England HIMSS Moment with a Mentor Program (2025–2026)</title>
+  </bookmark>
+  <bookmark href="https://www.nature.com/articles/s41591-026-04318-5" id="2217">
+    <title>Microbiome signature of Parkinson’s disease in healthy and genetically at-risk individuals | Nature Medicine</title>
+  </bookmark>
+  <bookmark href="https://chromeunboxed.com/new-chrome-upgrade-brings-ai-mode-split-tabs-to-end-your-tab-switching-fatigue/" id="2218">
+    <title>New Chrome upgrade brings ‘AI Mode’ split tabs to end your tab-switching fatigue</title>
+  </bookmark>
+  <bookmark href="https://www.science.org/content/article/ten-thousand-years-ago-human-evolution-went-overdrive" id="2219">
+    <title>Ten thousand years ago, human evolution went into overdrive | Science | AAAS</title>
+  </bookmark>
+  <bookmark href="https://www.theatlantic.com/books/2026/04/fixing-medical-diagnosis-crisis-elusive-body-book-review/686804/" id="2220">
+    <title>How to Fix the Medical Diagnosis Crisis - The Atlantic</title>
+  </bookmark>
+  <bookmark href="https://talktherapycanada.com/parenting-on-the-same-page/" id="2221">
+    <title>Parenting on the Same Page: How to Align on Rules, Discipline, and Boundaries | Talk Therapy Canada</title>
+  </bookmark>
+  <bookmark href="https://parkinsonsnewstoday.com/news/rune-labs-launches-ai-tool-parkinsons-symptom-tracking/" id="2222">
+    <title>Rune Labs launches AI tool for Parkinson’s symptom tracking</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/choosecols-in-excel/" id="2223">
+    <title>I stopped restructuring my Excel sheets manually the day I discovered CHOOSECOLS</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/you-can-get-free-gemini-api-key-right-now-no-billing-required/" id="2224">
+    <title>You can get a free Gemini API key right now with no billing required — here&apos;s what to do with it</title>
+  </bookmark>
+  <bookmark href="https://jamanetwork.com/journals/jama/fullarticle/2847322?guestAccessKey=a937b686-41a2-4898-a21e-0519e2e7f328&amp;utm_source=postup_jn&amp;utm_medium=email&amp;utm_campaign=article_alert-jamaai&amp;utm_content=new_this_week-tfl_&amp;utm_term=041126" id="2225">
+    <title>Ambient AI Scribes and the Quintuple Aim What Is Counted—and What Matters</title>
+  </bookmark>
+  <bookmark href="https://jamanetwork.com/journals/jama/fullarticle/2845756?guestAccessKey=26221b31-0aff-4a7b-ba18-5b131633abb0&amp;utm_source=postup_jn&amp;utm_medium=email&amp;utm_campaign=article_alert-jamaai&amp;utm_content=new_this_week-tfl_&amp;utm_term=041126" id="2226">
+    <title>The Lost Aura of the Physician in the Age of Artificial Intelligence</title>
+  </bookmark>
+  <bookmark href="https://thehill.com/opinion/finance/5824341-wealth-tax-billionaire-fairness/" id="2227">
+    <title>You’re paying taxes — why aren’t billionaires?</title>
+  </bookmark>
+  <bookmark href="https://www.howtogeek.com/2026-toyota-rav4-trims-explained/" id="2228">
+    <title>2026 Toyota RAV4 trims explained—and the one that makes the most sense</title>
+  </bookmark>
+  <bookmark href="https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/" id="2229">
+    <title>Californians sue over AI tool that records doctor visits</title>
+  </bookmark>
+  <bookmark href="https://www.nature.com/articles/s44387-026-00095-1" id="2230">
+    <title>Explainable AI needs formalization | npj Artificial Intelligence</title>
+  </bookmark>
+  <bookmark href="https://www.theatlantic.com/ideas/2026/04/ivy-league-education-income/686682/" id="2231">
+    <title>What an Ivy League Education Really Gets You</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/access-chatgpt-claude-gemini-without-individual-subscriptions/" id="2232">
+    <title>I stopped paying for ChatGPT, Claude, and Gemini separately — this app accesses all of them for less</title>
+  </bookmark>
+  <bookmark href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001143" id="2233">
+    <title>A problem of Epic proportion | PLOS Digital Health</title>
+  </bookmark>
+  <bookmark href="https://practicalneurology.com/diseases-diagnoses/imaging-testing/optical-coherence-tomography-neurology/31853/" id="2234">
+    <title>Optical Coherence Tomography &amp; Neurology -</title>
+  </bookmark>
+  <bookmark href="https://www.howtogeek.com/buying-suv-2026-this-hybrid-should-be-it/" id="2235">
+    <title>If you’re buying an SUV in 2026, this hybrid should be it</title>
+  </bookmark>
+  <bookmark href="https://www.cbsnews.com/news/why-it-pays-to-be-bored-arthur-c-brooks/" id="2236">
+    <title>Why it pays to be bored</title>
+  </bookmark>
+  <bookmark href="https://www.popularmechanics.com/science/a70806483/is-consciousness-real-or-illusion/" id="2237">
+    <title>Human Consciousness Is an Illusion, Scientists Say</title>
+  </bookmark>
+  <bookmark href="https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/" id="2238">
+    <title>Vibe Code to production with Google AI Studio</title>
+  </bookmark>
+  <bookmark href="https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/03/fiscal-year-2025-by-the-numbers-extramural-grant-investments-in-research" id="2239">
+    <title>Fiscal Year 2025 By the Numbers: Extramural Grant Investments in Research</title>
+  </bookmark>
+  <bookmark href="https://www.prnewswire.com/news-releases/nrmp-releases-results-of-the-2026-main-residency-match-for-more-than-38-000-future-residents-302719870.html" id="2240">
+    <title>NRMP Releases Results of the 2026 Main Residency Match for More Than 38,000 Future Residents</title>
+  </bookmark>
+  <bookmark href="https://vtdigger.org/2026/03/19/julie-wasserman-where-are-the-doctors-in-vermonts-195m-rural-health-plan/" id="2241">
+    <title>Opinion — Julie Wasserman: Where are the doctors in Vermont’s $195M rural health plan?</title>
+  </bookmark>
+  <bookmark href="https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/" id="2242">
+    <title>Google Research at The Check Up: from healthcare innovation to real-world care settings</title>
+  </bookmark>
+  <bookmark href="https://www.scientificamerican.com/article/the-kids-are-all-right/" id="2243">
+    <title>The kids are all right | Scientific American</title>
+  </bookmark>
+  <bookmark href="https://www.nih.gov/news-events/nih-research-matters/blood-test-predicts-start-alzheimers-disease-symptoms" id="2244">
+    <title>Blood test predicts start of Alzheimer’s disease symptoms</title>
+  </bookmark>
+  <bookmark href="https://www.scientificamerican.com/article/the-autism-spectrum-isnt-a-sliding-scale-39-traits-show-the-complexity/" id="2245">
+    <title>What 39 traits reveal about the autism spectrum</title>
+  </bookmark>
+  <bookmark href="https://vtdigger.org/2026/03/13/vermonts-8-year-all-payer-health-care-experiment-sunset-at-the-end-of-2025-what-did-it-teach-us/" id="2246">
+    <title>Vermont’s 8-year ‘all-payer’ health care experiment sunset at the end of 2025. What did it teach us?</title>
+  </bookmark>
+  <bookmark href="https://www.mobihealthnews.com/news/clinicians-take-larger-role-evaluating-ai-tools-healthcare" id="2247">
+    <title>Clinicians take a larger role in evaluating AI tools for healthcare | MobiHealthNews</title>
+  </bookmark>
+  <bookmark href="https://www.medpagetoday.com/opinion/prescriptionsforabrokensystem/120254" id="2248">
+    <title>Opinion | Is Epic Too Big to Fail?</title>
+  </bookmark>
+  <bookmark href="https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store" id="2249">
+    <title>Raycast’s Glaze is an all-in-one vibe coding app platform</title>
+  </bookmark>
+  <bookmark href="https://www.wkyc.com/article/news/health/cleveland-clinic-new-neurological-institute-brain-tumor-spine-alzheimers-parkinsons-deep-stimulation-surgery-neuro-nerve-mental-health-research/95-77843eb8-c51a-4c2f-a75b-d1503ea602ad" id="2250">
+    <title>Cleveland Clinic&apos;s new neurological institute is a year away from opening — here&apos;s what&apos;s inside</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/notebooklm-data-tables-feature/" id="2251">
+    <title>NotebookLM&apos;s new feature is a researcher&apos;s dream come true</title>
+  </bookmark>
+  <bookmark href="https://www.howtogeek.com/why-everyone-should-use-vs-code-even-if-they-arent-programmers/" id="2252">
+    <title>Why everyone should use VS Code (even if they aren&apos;t programmers)</title>
+  </bookmark>
+  <bookmark href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00375-2/abstract" id="2253">
+    <title>Decoding the language of sleep with artificial intelligence</title>
+  </bookmark>
+  <bookmark href="https://login.microsoftonline.com/1c177758-4d6b-43dc-aaeb-3b9c42562967/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code%20id_token&amp;resource=00000003-0000-0ff1-ce00-000000000000&amp;scope=openid&amp;nonce=4FB2BAE52A0A00A29602A9CF948F478961D37651E6873ED6-865EE2980EBB8BB955CA8077B0C0E1E9DDB1BDF8FC65AB66DC1AEACAB2602062&amp;redirect_uri=https%3A%2F%2Fuvmoffice-my.sharepoint.com%2F_forms%2Fdefault.aspx&amp;state=OD0w&amp;claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&amp;wsucxt=1&amp;cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&amp;client-request-id=1429faa1-e0de-b000-f2f2-74bf6262e2c0" id="2254">
+    <title>Sign in to your account</title>
+  </bookmark>
+  <bookmark href="https://www.scientificamerican.com/article/ai-is-entering-health-care-and-nurses-are-being-asked-to-trust-it/" id="2255">
+    <title>AI enters the exam room, and nurses are left to manage the fallout</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/pivotby-instead-of-pivot-tables/" id="2256">
+    <title>Most Excel users are still using Pivot Tables, but this new function is faster</title>
+  </bookmark>
+  <bookmark href="https://www.popularmechanics.com/science/a70395978/consciousness-connects-with-universe/" id="2257">
+    <title>Your Consciousness Can Connect With the Whole Universe, Groundbreaking Research Suggests</title>
+  </bookmark>
+  <bookmark href="https://www.nature.com/articles/d41586-026-00448-5" id="2258">
+    <title>Can consciousness ever be understood — this side of death?</title>
+  </bookmark>
+  <bookmark href="https://www.science.org/doi/10.1126/science.aec8147" id="2259">
+    <title>The elusive nature of consciousness</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/browser-extensions-i-install-on-every-new-computer-immediately/" id="2260">
+    <title>6 browser extensions I install on every new computer immediately</title>
+  </bookmark>
+  <bookmark href="https://www.howtogeek.com/free-open-source-teamviewer-alternatives-that-are-easy-to-use/" id="2261">
+    <title>Stop using TeamViewer: This open-source alternative is faster and more private</title>
+  </bookmark>
+  <bookmark href="https://www.bostonglobe.com/2026/02/09/metro/massachusetts-nih-cuts-biotech-scientists/" id="2262">
+    <title>Boston built a global biotech empire. Now the talent is quietly drifting away.</title>
+  </bookmark>
+  <bookmark href="https://www.scientificamerican.com/article/what-came-before-the-big-bang-cosmology/" id="2263">
+    <title>What came before the big bang?</title>
+  </bookmark>
+  <bookmark href="https://www.theverge.com/tech/876352/google-search-remove-sensitive-information-nonconsensual-images" id="2264">
+    <title>Google can now help you find and remove your ID from search results</title>
+  </bookmark>
+  <bookmark href="https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/" id="2265">
+    <title>OpenAI launches new macOS app for agentic coding</title>
+  </bookmark>
+  <bookmark href="https://www.scientificamerican.com/article/how-claude-code-is-bringing-vibe-coding-to-everyone/" id="2266">
+    <title>How Claude Code is bringing vibe coding to everyone</title>
+  </bookmark>
+  <bookmark href="https://www.howtogeek.com/i-tried-using-a-sane-and-lean-version-of-windows-11-heres-what-surprised-me/" id="2267">
+    <title>I switched to a &quot;lean&quot; version of Windows 11, and I&apos;m never going back</title>
+  </bookmark>
+  <bookmark href="https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/" id="2268">
+    <title>New OpenAI tool renews fears that “AI slop” will overwhelm scientific research</title>
+  </bookmark>
+  <bookmark href="https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/" id="2269">
+    <title>OpenAI’s latest product lets you vibe code science</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/win11debloat-is-the-windows-tool-i-didnt-know-i-needed/" id="2270">
+    <title>I used this open-source tool to strip the bloatware out of Windows 11 in minutes</title>
+  </bookmark>
+  <bookmark href="https://www.makeuseof.com/open-source-web-apps-no-install-required/" id="2271">
+    <title>5 extremely useful open-source apps I use from a web browser (no install required)</title>
+  </bookmark>
+  <bookmark href="https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/" id="2272">
+    <title>Introducing GIST: The Next Stage in Smart Sampling</title>
+  </bookmark>
+  <bookmark href="https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai" id="2273">
+    <title>Gemini with Personal Intelligence is awfully familiar</title>
+  </bookmark>
+  <bookmark href="https://time.com/7353412/patient-train-your-brain-more-patience/" id="2274">
+    <title>How to Train Your Brain to Be More Patient</title>
+  </bookmark>
+  <bookmark href="https://www.dhs.gov/news/2026/01/22/wowdhsgov-website-makes-it-easier-search-your-state" id="2275">
+    <title>WOW.DHS.GOV Website Makes it Easier to Search Your State</title>
+  </bookmark>
+  <bookmark href="https://collider.com/as-a-sci-fi-fan-these-are-the-movies-i-rewatch-the-most/" id="2276">
+    <title>As a Sci-Fi Fan, These Are the 10 Movies I Rewatch the Most</title>
+  </bookmark>
+  <bookmark href="https://www.nature.com/articles/s41551-025-01587-2" id="2277">
+    <title>Making large language models reliable data science programming copilots for biomedical research</title>
+  </bookmark>
+  <bookmark href="https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/" id="2278">
+    <title>Has Gemini surpassed ChatGPT? We put the AI models to the test.</title>
+  </bookmark>
+  <bookmark href="https://www.nature.com/articles/s41591-025-04151-2" id="2279">
+    <title>Holistic evaluation of large language models for medical tasks with MedHELM</title>
+  </bookmark>
+  <bookmark href="https://www.statnews.com/2026/01/19/aidoc-jesse-ehrenfeld-former-ama-preisdent-on-health-ai/" id="2280">
+    <title>Former AMA president says the U.S. health care system will implode without an overhaul</title>
+  </bookmark>
+  <bookmark href="https://www.bbc.com/news/articles/c62173jqd4wo" id="2281">
+    <title>Delhi heatwave: The temperature in Indian capital showed 43.5C. Why did it feel hotter?</title>
+  </bookmark>
+  <bookmark href="https://parkinsonsnewstoday.com/news/bial-drops-parkinsons-therapy-fails-slow-disease-trial/" id="2282">
+    <title>Bial drops Parkinson&apos;s therapy after it fails to slow disease in trial</title>
+  </bookmark>
+  <bookmark href="https://www.eurekalert.org/news-releases/1132174" id="2283">
+    <title>New study reveals different drivers behind rising numbers of Parkinson’s, multiple sclerosis and motor neuron disease | EurekAlert!</title>
+  </bookmark>
+  <bookmark href="https://www.washingtonpost.com/opinions/2026/06/19/vermont-crackdown-private-equity-wont-make-health-care-cheaper/" id="2284">
+    <title>Opinion | Vermont&apos;s crackdown on private equity won&apos;t make health care cheaper - The Washington Post</title>
+  </bookmark>
+  <bookmark href="https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/" id="2285">
+    <title>The People Who Will Thrive in the AI Age - The Atlantic</title>
+  </bookmark>
+  <bookmark href="https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity" id="2286">
+    <title>China’s Z.ai claims it can match Mythos on cybersecurity | The Verge</title>
+  </bookmark>
 </folder>
 </xbel>
