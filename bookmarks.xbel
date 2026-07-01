@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2199: for Floccus bookmark sync browser extension -->
+<!--- highestId :2200: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -320,7 +320,7 @@
       <title>Champlain Water South Burlington Portal</title>
     </bookmark>
     <bookmark href="https://catalyst.uvm.edu/psc/FSPRD/EMPLOYEE/ERP/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL" id="149">
-      <title>UVM </title>
+      <title>UVM</title>
     </bookmark>
     <bookmark href="https://www.myprocare.com/Account" id="150">
       <title>School Out Orchard - MyProcare</title>
@@ -611,6 +611,9 @@
       <title>Google Family Link</title>
     </bookmark>
   </folder>
+  <bookmark href="chrome-extension://fnaicdffflnofjppbagibeoednhnbjhg/dist/html/options.html#/options/17828674254530.7776818635072281" id="2200">
+    <title>Floccus bookmark sync</title>
+  </bookmark>
   <bookmark href="https://www.usvisascheduling.com/en-US/" id="32">
     <title>Visa Application Home  · Customer Self-Service</title>
   </bookmark>
@@ -4376,7 +4379,7 @@
       <title>Academic Calendar | Office of the University Registrar</title>
     </bookmark>
     <bookmark href="https://systemsbiology.columbia.edu/courses" id="1471">
-      <title>Courses in Systems Biology and Computational Biology </title>
+      <title>Courses in Systems Biology and Computational Biology</title>
     </bookmark>
     <bookmark href="https://plato.neuro.columbia.edu/Citrix/XenApp/site/default.aspx?CTX_MessageType=SUCCESS&amp;CTX_MessageKey=SettingsSaved" id="1472">
       <title>Plato</title>
@@ -5643,7 +5646,7 @@
           <title>About the Institute – Master of Science in Analytics | Institute for Advanced Analytics</title>
         </bookmark>
         <bookmark href="https://cognitiveclass.ai/learn/data-science/" id="1885">
-          <title>Data Science Fundamentals </title>
+          <title>Data Science Fundamentals</title>
         </bookmark>
         <bookmark href="https://cognitiveclass.ai/learn/data-science-business/" id="1886">
           <title>Data Science for Business - Cognitive Class</title>
@@ -5857,25 +5860,25 @@
         <title>CTS 320. Analyze Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=325&amp;term=&amp;section&amp;action=Search" id="1784">
-        <title>CTS 325. Multi Analysis Clin&amp;Trans Res. 3 Credits. </title>
+        <title>CTS 325. Multi Analysis Clin&amp;Trans Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=301&amp;term=&amp;section&amp;action=Search" id="1785">
-        <title>CTS 301. Design Clin&amp;Translational Res. 3 Credits. </title>
+        <title>CTS 301. Design Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=305&amp;term=&amp;section&amp;action=Search" id="1786">
-        <title>CTS 305. Cell To Society I. 2 Credits. </title>
+        <title>CTS 305. Cell To Society I. 2 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=315&amp;term=&amp;section&amp;action=Search" id="1787">
-        <title>CTS 315. Report Clin&amp;Translational Res. 3 Credits. </title>
+        <title>CTS 315. Report Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=306&amp;term=&amp;section&amp;action=Search" id="1788">
-        <title>CTS 306. Cell To Society II. 2 Credits. </title>
+        <title>CTS 306. Cell To Society II. 2 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=310&amp;term=&amp;section&amp;action=Search" id="1789">
-        <title>CTS 310. Conduct Clin&amp;Translational Res. 3 Credits. </title>
+        <title>CTS 310. Conduct Clin&amp;Translational Res. 3 Credits.</title>
       </bookmark>
       <bookmark href="http://www.uvm.edu/academics/courses/?subject=CTS&amp;number=385&amp;term=&amp;section&amp;action=Search" id="1790">
-        <title>CTS 385. Independent Study in CTS. 1-6 Credits. </title>
+        <title>CTS 385. Independent Study in CTS. 1-6 Credits.</title>
       </bookmark>
       <bookmark href="https://istart.uvm.edu/istart/controllers/admission/AdmissionEngine.cfm" id="1867">
         <title>UVM iStart</title>
@@ -5902,7 +5905,7 @@
         <title>Neural Science - Medical Student Education | College of Medicine | University of Vermont</title>
       </bookmark>
       <bookmark href="http://contentmanager.med.uvm.edu/docs/vic/medical-education-documents/vic.pdf?sfvrsn=2" id="1875">
-        <title>Vermont Integrated Curriculum </title>
+        <title>Vermont Integrated Curriculum</title>
       </bookmark>
       <bookmark href="https://mainehealth.org/provider-directory/k/kleinman-michael-s" id="1876">
         <title>Michael Kleinman, DO | MaineHealth</title>
