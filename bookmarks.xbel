@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2202: for Floccus bookmark sync browser extension -->
+<!--- highestId :2203: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
   <bookmark href="edge://settings/downloads" id="6">
-    <title>Settings - Downloads</title>
-  </bookmark>
-  <bookmark href="chrome://settings/downloads" id="7">
     <title>Settings - Downloads</title>
   </bookmark>
   <folder id="8">
@@ -87,6 +84,9 @@
     </bookmark>
   </folder>
   <bookmark href="edge://settings/downloads" id="2201">
+    <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="edge://settings/downloads" id="2203">
     <title>Settings - Downloads</title>
   </bookmark>
 </folder>
