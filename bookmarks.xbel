@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2366: for Floccus bookmark sync browser extension -->
+<!--- highestId :2367: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -16,11 +16,14 @@
     <bookmark href="https://teams.microsoft.com/v2/" id="41">
       <title>Chat | General | Microsoft Teams</title>
     </bookmark>
-    <bookmark href="https://gemini.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534" id="42">
-      <title>Google Gemini</title>
+    <bookmark href="https://jhu.instructure.com/courses/134734/grades" id="2367">
+      <title>Grades for Deepak Gupta: BU.520.710.31.SU26 AI Essentials for Business</title>
     </bookmark>
     <bookmark href="https://drive.google.com/drive/folders/1CC9809FbQtgWEy9LqkMBGuFG9CvrPRNG" id="2365">
       <title>2026-05 AI Essentials for Business - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://gemini.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534" id="42">
+      <title>Google Gemini</title>
     </bookmark>
   </folder>
   <folder id="9">
@@ -86,15 +89,6 @@
       <title>CO.BU.Quantitative_Business_Prep QuantitativeBusinessPrep</title>
     </bookmark>
   </folder>
-  <bookmark href="edge://settings/downloads" id="2201">
-    <title>Settings - Downloads</title>
-  </bookmark>
-  <bookmark href="edge://settings/downloads" id="2203">
-    <title>Settings - Downloads</title>
-  </bookmark>
-  <bookmark href="edge://settings/downloads" id="2364">
-    <title>Settings - Downloads</title>
-  </bookmark>
 </folder>
 <folder id="2">
   <title>Research</title>
