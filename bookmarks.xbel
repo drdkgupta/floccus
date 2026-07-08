@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2375: for Floccus bookmark sync browser extension -->
+<!--- highestId :2376: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -2349,6 +2349,9 @@
     </bookmark>
     <bookmark href="https://outlook.office.com/owa/" id="2371">
       <title>Mail</title>
+    </bookmark>
+    <bookmark href="edge://settings/privacy/services/search" id="2376">
+      <title>Settings</title>
     </bookmark>
   </folder>
   <folder id="764">
