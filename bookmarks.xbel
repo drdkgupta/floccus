@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2377: for Floccus bookmark sync browser extension -->
+<!--- highestId :2378: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -24,6 +24,9 @@
     </bookmark>
     <bookmark href="https://gemini.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534" id="42">
       <title>Google Gemini</title>
+    </bookmark>
+    <bookmark href="https://notebooklm.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534?utm_source=gemini_notebook&amp;utm_medium=referral" id="2378">
+      <title>01-AI Essentials for Business - NotebookLM</title>
     </bookmark>
   </folder>
   <folder id="9">
