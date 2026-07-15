@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2388: for Floccus bookmark sync browser extension -->
+<!--- highestId :2389: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -31,6 +31,9 @@
   </folder>
   <folder id="9">
     <title>General</title>
+    <bookmark href="https://outlook.office365.com/mail/?realm=jh.edu" id="2389">
+      <title>Outlook</title>
+    </bookmark>
     <bookmark href="https://carey.jhu.edu/student-life/student-resources/academic-calendar" id="43">
       <title>Academic Calendar | JHU Carey Business School</title>
     </bookmark>
