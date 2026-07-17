@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2396: for Floccus bookmark sync browser extension -->
+<!--- highestId :2397: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -163,6 +163,9 @@
   </bookmark>
   <bookmark href="https://www.openevidence.com/visits-home?view=patients" id="19">
     <title>Patients</title>
+  </bookmark>
+  <bookmark href="https://www.openevidence.com/patients/8c614dfc-d503-4f03-bd16-dd2feecda007" id="2397">
+    <title>Patient Details | OpenEvidence</title>
   </bookmark>
   <bookmark href="https://uvmoffice-my.sharepoint.com/personal/dkgupta_uvm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdkgupta%5Fuvm%5Fedu%2FDocuments%2FProfessional%2FUVMH%2FInformatics%2FAmbient%20AI%2FOpenEvidence%20Resources&amp;ga=1" id="2366">
     <title>OpenEvidence Resources - OneDrive</title>
