@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2397: for Floccus bookmark sync browser extension -->
+<!--- highestId :2398: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -632,6 +632,9 @@
       <title>Google Family Link</title>
     </bookmark>
   </folder>
+  <bookmark href="chrome://settings/downloads" id="2398">
+    <title>Settings - Downloads</title>
+  </bookmark>
   <bookmark href="chrome-extension://fnaicdffflnofjppbagibeoednhnbjhg/dist/html/options.html#/options/17828674254530.7776818635072281" id="2200">
     <title>Floccus bookmark sync</title>
   </bookmark>
