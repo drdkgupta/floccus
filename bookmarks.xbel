@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2393: for Floccus bookmark sync browser extension -->
+<!--- highestId :2394: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -2305,6 +2305,9 @@
   </bookmark>
   <bookmark href="https://m365.cloud.microsoft/chat/?fromcode=cmmiadtp424&amp;origindomain=Office&amp;auth=2" id="755">
     <title>Chat | M365 Copilot</title>
+  </bookmark>
+  <bookmark href="https://outlook.cloud.microsoft/mail/?realm=med.uvm.edu&amp;login_hint=deepak.gupta@med.uvm.edu" id="2394">
+    <title>Mail - Gupta, Deepak - Outlook</title>
   </bookmark>
   <bookmark href="https://www.sciencedirect.com/leapspace" id="2383">
     <title>LeapSpace - ScienceDirect.com</title>
