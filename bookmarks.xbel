@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2394: for Floccus bookmark sync browser extension -->
+<!--- highestId :2395: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -2895,6 +2895,9 @@
     </folder>
     <folder id="818">
       <title>CI Team</title>
+      <bookmark href="https://fahc.sharepoint.com/teams/EpicProviderSmartUsers/_layouts/15/Doc.aspx?sourcedoc={b3867cfd-2ae3-4eed-a0ea-2fe4e64ea1af}&amp;action=edit&amp;wd=target%28Agendas.one%7Ce050f99b-4491-4e2e-86e3-b0e866f67482%2F2026%7Cd0145977-4ad1-4031-b672-68ffd390d69c%2F%29&amp;wdorigin=NavigationUrl" id="2395">
+        <title>Epic Provider SmartUsers Notebook</title>
+      </bookmark>
       <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,100245629&amp;from=Galaxy-Redirect" id="851">
         <title>CLN165 Physician Builder</title>
       </bookmark>
