@@ -8,6 +8,9 @@
   <bookmark href="edge://settings/downloads" id="2391">
     <title>Settings - Downloads</title>
   </bookmark>
+  <bookmark href="https://outlook.office365.com/mail/?realm=jh.edu" id="2389">
+    <title>Outlook</title>
+  </bookmark>
   <folder id="8">
     <title>2026-05 AI Essentials for Business</title>
     <bookmark href="https://jhu.instructure.com/courses/134734" id="40">
@@ -40,9 +43,6 @@
   </folder>
   <folder id="9">
     <title>General</title>
-    <bookmark href="https://outlook.office365.com/mail/?realm=jh.edu" id="2389">
-      <title>Outlook</title>
-    </bookmark>
     <bookmark href="https://carey.jhu.edu/student-life/student-resources/academic-calendar" id="43">
       <title>Academic Calendar | JHU Carey Business School</title>
     </bookmark>
