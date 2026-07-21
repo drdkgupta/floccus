@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2406: for Floccus bookmark sync browser extension -->
+<!--- highestId :2407: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6935,5 +6935,8 @@
   <bookmark href="https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity" id="2286">
     <title>China’s Z.ai claims it can match Mythos on cybersecurity | The Verge</title>
   </bookmark>
+</folder>
+<folder id="2407">
+  <title>Floccus (Github)</title>
 </folder>
 </xbel>
