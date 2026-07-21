@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2403: for Floccus bookmark sync browser extension -->
+<!--- highestId :2406: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -106,6 +106,15 @@
   </folder>
   <bookmark href="https://chat.ai.jh.edu/c/new?endpoint=AnthropicClaude&amp;model=claude-opus-4.5-cached" id="2403">
     <title>HopGPT</title>
+  </bookmark>
+  <bookmark href="edge://settings/downloads" id="2404">
+    <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="edge://settings/downloads" id="2405">
+    <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="edge://settings/downloads" id="2399">
+    <title>Settings - Downloads</title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -638,9 +647,6 @@
       <title>Google Family Link</title>
     </bookmark>
   </folder>
-  <bookmark href="edge://settings/downloads" id="2399">
-    <title>Settings - Downloads</title>
-  </bookmark>
   <bookmark href="chrome-extension://fnaicdffflnofjppbagibeoednhnbjhg/dist/html/options.html#/options/17828674254530.7776818635072281" id="2200">
     <title>Floccus bookmark sync</title>
   </bookmark>
@@ -6929,5 +6935,8 @@
   <bookmark href="https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity" id="2286">
     <title>China’s Z.ai claims it can match Mythos on cybersecurity | The Verge</title>
   </bookmark>
+</folder>
+<folder id="2406">
+  <title>Floccus (Github)</title>
 </folder>
 </xbel>
