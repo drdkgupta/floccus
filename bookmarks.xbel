@@ -8,9 +8,6 @@
   <bookmark href="edge://settings/downloads" id="2391">
     <title>Settings - Downloads</title>
   </bookmark>
-  <bookmark href="https://outlook.office365.com/mail/?realm=jh.edu" id="2389">
-    <title>Outlook</title>
-  </bookmark>
   <folder id="8">
     <title>2026-05 AI Essentials for Business</title>
     <bookmark href="https://jhu.instructure.com/courses/134734" id="40">
@@ -69,6 +66,9 @@
     </bookmark>
     <bookmark href="https://m365.cloud.microsoft/chat/?from=PortalHome&amp;auth=2&amp;origindomain=microsoft365&amp;client-request-id=b78380e6-a722-45c8-bd79-344175a1e7d6" id="44">
       <title>Chat | M365 Copilot</title>
+    </bookmark>
+    <bookmark href="https://outlook.office365.com/mail/?realm=jh.edu" id="2389">
+      <title>Outlook</title>
     </bookmark>
   </folder>
   <folder id="10">
