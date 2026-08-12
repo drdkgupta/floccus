@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2416: for Floccus bookmark sync browser extension -->
+<!--- highestId :2417: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -3199,6 +3199,9 @@
   </bookmark>
   <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7B28DB9347-E8DB-4B75-9204-68DC0D6288D7%7D&amp;file=Provider%20Time%20Away%20Calendar%202027.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=b9de89c9-6b48-9354-a062-2a47f84e003f" id="2416">
     <title>Provider Time Away Calendar 2027.xlsx</title>
+  </bookmark>
+  <bookmark href="https://fahc-my.sharepoint.com/:x:/g/personal/deborah_fay_uvmhealth_org/IQCDs7jupz0lSKfUvzx4bEkRAXPgnDWR5ANprr3lALK3q8Q?e=F0tnez&amp;CID=3ca5f316-ce93-c08b-1c64-d9fe3becbfdd" id="2417">
+    <title>2026-2027 Resident SCHEDULES - 6.19.2026.xlsx</title>
   </bookmark>
 </folder>
 <folder id="1031">
