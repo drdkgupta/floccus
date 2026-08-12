@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2410: for Floccus bookmark sync browser extension -->
+<!--- highestId :2411: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -2352,6 +2352,9 @@
     </bookmark>
     <bookmark href="https://workspace.uvmhealth.org/Citrix/UVMHealthWeb/" id="773">
       <title>Citrix Access Gateway</title>
+    </bookmark>
+    <bookmark href="https://widgets.nuancepowershare.com/easyupload/UVMHealthNetwork" id="2411">
+      <title>Easy Upload</title>
     </bookmark>
     <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/onedrive.aspx?login_hint=Deepak.Gupta%40uvmhealth.org&amp;view=1" id="774">
       <title>Home - OneDrive</title>
