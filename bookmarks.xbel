@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2411: for Floccus bookmark sync browser extension -->
+<!--- highestId :2413: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -3185,6 +3185,12 @@
       </bookmark>
     </folder>
   </folder>
+  <folder id="2412">
+    <title>Schedules</title>
+  </folder>
+  <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7B9B050138-6273-451B-8838-3AB3A0434971%7D&amp;file=Call%20Schedules%202026-27.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=1a47cac8-34f9-3072-adf2-37333d736205" id="2413">
+    <title>Call Schedules 2026-27.xlsx</title>
+  </bookmark>
 </folder>
 <folder id="1031">
   <title>Institutions</title>
