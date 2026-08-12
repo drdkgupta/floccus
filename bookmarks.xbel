@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2413: for Floccus bookmark sync browser extension -->
+<!--- highestId :2416: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -3190,6 +3190,15 @@
   </folder>
   <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7B9B050138-6273-451B-8838-3AB3A0434971%7D&amp;file=Call%20Schedules%202026-27.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=1a47cac8-34f9-3072-adf2-37333d736205" id="2413">
     <title>Call Schedules 2026-27.xlsx</title>
+  </bookmark>
+  <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7BA05F5222-4688-4305-888E-697DCFE949A1%7D&amp;file=Resident%20Clinic%20Supervision.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1%3Fweb%3D1&amp;CID=237bcaad-fe86-2ecf-071c-cfa268301332" id="2414">
+    <title>Resident Clinic Supervision.xlsx</title>
+  </bookmark>
+  <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7B60149D6F-ED6D-4BC1-9AB8-A0435B2B11C3%7D&amp;file=Provider%20Time%20Away%20Calendar%202026.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=86a8595f-d3d1-f100-53d8-6f51be36fd3f" id="2415">
+    <title>Provider Time Away Calendar 2026.xlsx</title>
+  </bookmark>
+  <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7B28DB9347-E8DB-4B75-9204-68DC0D6288D7%7D&amp;file=Provider%20Time%20Away%20Calendar%202027.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=b9de89c9-6b48-9354-a062-2a47f84e003f" id="2416">
+    <title>Provider Time Away Calendar 2027.xlsx</title>
   </bookmark>
 </folder>
 <folder id="1031">
