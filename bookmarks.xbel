@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2424: for Floccus bookmark sync browser extension -->
+<!--- highestId :2425: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -647,6 +647,9 @@
       <title>Google Family Link</title>
     </bookmark>
   </folder>
+  <bookmark href="edge://settings/privacy/services/search" id="2425">
+    <title>Settings</title>
+  </bookmark>
   <bookmark href="https://tinyurl.com/" id="2418">
     <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
   </bookmark>
