@@ -3208,6 +3208,9 @@
         <title>Daxxify Converter</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.apdaparkinson.org/resources-support/download-publications/" id="2428">
+      <title>APDA Handouts</title>
+    </bookmark>
   </folder>
   <folder id="2412">
     <title>Schedules</title>
@@ -6987,7 +6990,4 @@
 <folder id="2427">
   <title>Floccus (Github)</title>
 </folder>
-<bookmark href="https://www.apdaparkinson.org/resources-support/download-publications/" id="2428">
-  <title>Download Publications | American Parkinson Disease Association</title>
-</bookmark>
 </xbel>
