@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2427: for Floccus bookmark sync browser extension -->
+<!--- highestId :2428: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6987,4 +6987,7 @@
 <folder id="2427">
   <title>Floccus (Github)</title>
 </folder>
+<bookmark href="https://www.apdaparkinson.org/resources-support/download-publications/" id="2428">
+  <title>Download Publications | American Parkinson Disease Association</title>
+</bookmark>
 </xbel>
