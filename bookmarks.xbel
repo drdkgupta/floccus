@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2428: for Floccus bookmark sync browser extension -->
+<!--- highestId :2429: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -3219,6 +3219,9 @@
     </bookmark>
     <bookmark href="https://fahc-my.sharepoint.com/:x:/g/personal/deborah_fay_uvmhealth_org/IQCDs7jupz0lSKfUvzx4bEkRAXPgnDWR5ANprr3lALK3q8Q?e=F0tnez&amp;CID=3ca5f316-ce93-c08b-1c64-d9fe3becbfdd" id="2417">
       <title>2026-2027 Resident SCHEDULES - 6.19.2026.xlsx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/BinterCenter/_layouts/15/Doc.aspx?sourcedoc=%7BBF20F2CD-C032-49E5-A3F6-57386CCE78A3%7D&amp;file=Pharma%20MSL%20and%20rep%20list%2012.2025.docx&amp;action=default&amp;mobileredirect=true" id="2429">
+      <title>Pharma MSL and rep list 12.2025.docx</title>
     </bookmark>
   </folder>
 </folder>
