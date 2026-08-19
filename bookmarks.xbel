@@ -179,9 +179,6 @@
   <bookmark href="https://www.openevidence.com/visits-home?view=patients" id="19">
     <title>Patients</title>
   </bookmark>
-  <bookmark href="https://www.openevidence.com/patients/0f8daefd-1319-4551-b58a-3294f1dd167d" id="2442">
-    <title>Kavya</title>
-  </bookmark>
   <bookmark href="https://www.openevidence.com/patients/8c614dfc-d503-4f03-bd16-dd2feecda007" id="2397">
     <title>Patient Details | OpenEvidence</title>
   </bookmark>
@@ -190,6 +187,9 @@
   </bookmark>
   <bookmark href="https://www.openevidence.com/visits/3c4f6b9b-45c3-4443-b083-dbcde1444cba" id="20">
     <title>Telephone Example</title>
+  </bookmark>
+  <bookmark href="https://www.openevidence.com/patients/0f8daefd-1319-4551-b58a-3294f1dd167d" id="2442">
+    <title>Kavya</title>
   </bookmark>
 </folder>
 <folder id="4">
