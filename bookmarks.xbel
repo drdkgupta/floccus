@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2443: for Floccus bookmark sync browser extension -->
+<!--- highestId :2445: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6762,6 +6762,9 @@
     </folder>
     <folder id="2419">
       <title>Links</title>
+      <bookmark href="https://fahc.sharepoint.com/teams/UVMHNITSharedServices/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FGeneral%20IT%20Info%2FIT%20Org%20Aug%202026%2Epdf&amp;parent=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FGeneral%20IT%20Info" id="2444">
+        <title>IT Org Aug 2026</title>
+      </bookmark>
       <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/AlvarezMarsalAMTeamsChannel/_layouts/15/Doc.aspx?sourcedoc=%7B795B287A-1804-4CB2-AB43-14FA5F25FB7C%7D&amp;file=DCI%20Build%20Review%20Tracker.docx&amp;action=default&amp;mobileredirect=true" id="2420">
         <title>DCI Build Review Tracker.docx</title>
       </bookmark>
@@ -6770,6 +6773,9 @@
       </bookmark>
       <bookmark href="https://fahc.sharepoint.com/teams/UVMHNITSharedServices/Shared%20Documents/Forms/AllItems.aspx?csf=1&amp;web=1&amp;e=cGzGsn&amp;CID=0938079b%2Da54f%2D4bd9%2D87f8%2Dd3e6e4384a93&amp;FolderCTID=0x012000DD2A3CF840388E4F886384B9A5696C8E&amp;id=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FIT%20Budget%20Requests%2F2026%20Requests" id="2422">
         <title>UVMHN IT Shared Services - Documents - 2026 Requests - All Documents</title>
+      </bookmark>
+      <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/HNPMO/_layouts/15/Doc.aspx?sourcedoc=%7BBFAF2D72-E98D-4E29-8BE8-48A897055D05%7D&amp;file=IT%20PMO%20PM%20Project%20Plan%20Lite%20Template%20.xlsx&amp;action=default&amp;mobileredirect=true" id="2445">
+        <title>IT PMO PM Project Plan Lite Template .xlsx</title>
       </bookmark>
     </folder>
   </folder>
