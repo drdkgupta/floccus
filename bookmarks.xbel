@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2445: for Floccus bookmark sync browser extension -->
+<!--- highestId :2447: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6778,6 +6778,12 @@
         <title>IT PMO PM Project Plan Lite Template .xlsx</title>
       </bookmark>
     </folder>
+    <folder id="2446">
+      <title>Nova Notes</title>
+    </folder>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/EpicUpgradesMajorEvents-EpicFallUpgradevMay25-11925/_layouts/15/Doc.aspx?sourcedoc=%7B79601DBA-8BC3-41B3-ABE7-A155976244C4%7D&amp;file=DCI%20guide%20to%20Nova%20.docx&amp;action=default&amp;mobileredirect=true" id="2447">
+      <title>DCI guide to Nova .docx</title>
+    </bookmark>
   </folder>
   <folder id="770">
     <title>Handouts</title>
