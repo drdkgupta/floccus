@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2447: for Floccus bookmark sync browser extension -->
+<!--- highestId :2448: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -650,6 +650,9 @@
       <title>Google Family Link</title>
     </bookmark>
   </folder>
+  <bookmark href="https://docs.google.com/document/d/1x29A2k5PZIGtWgFNOctMCfCfIZrpgTr7i0ggG2Cr0dA/edit?tab=t.0" id="2448">
+    <title>26/27 Verve Assignments - Google Docs</title>
+  </bookmark>
   <bookmark href="edge://settings/privacy/services/search" id="2425">
     <title>Settings</title>
   </bookmark>
