@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2448: for Floccus bookmark sync browser extension -->
+<!--- highestId :2450: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -680,6 +680,9 @@
   <bookmark href="https://www.dropbox.com/home/File%20requests?di=left_nav_browse" id="36">
     <title>File requests - Dropbox</title>
   </bookmark>
+  <bookmark href="https://login.med.uvm.edu/adfs/ls/?client-request-id=3d6c97ea-191f-49c4-859e-b726f5ae9113&amp;username=&amp;wa=wsignin1.0&amp;wtrealm=urn:federation:MicrosoftOnline&amp;wctx=estsredirect%3D2%26estsrequest%3DrQIIAY2RO2_TUACFc-PEtAFBBa1UplYCMSD5df2IY6lDnAdtIE6ch4SzWI5znTiJe41jJ053JBakMiF1YEBMGRhYipiZOnXuHwBlQkhIjCRiYaNn-HTGo-88JjiaUx6yfwOpNSnWcTjKRuv2T4K7ma3l2_HB3v2vRy_fnT_69fHNvTNw00M9Opp6NOpFC7A3CEN_ojAMjsIxxiMaO45rI9rGHoNnFvMZgEsAFsmsxEtZAUIo8SLMyZIocbTFCTwUcpCyIGQpoSuLVFdAIiXJchZZnOXkutJV8k4tH4UDuAYO3BP0M7np4MAzfTwJz4i4aE_VopHvF0tqgy08sfO-2iwM5tWJ2DBa8VGrxDdytW5sUhz2Nd1sYc1ujJsDXe8X-qWn5ZEb6SGazfOqPisG-U4wfGG5jVJVrMDDekfyRnE2EihY4-ty5TkUsR0GpjYPy-aCuJbDTwS5UuHh4wuCxD46dnuXKbBM3WLTysZGZuv2bmI_8TsF3qdXrpuvlw_q451nH3bPq4tvROIizQzjabtnlFlN9Tq9oM0Ylq9NkXxSLbpuVxtahljRD9thKw6EA6hwpyQ4JcnvJPhBglc3El82_3fPVWYbspxMcavVwj4rKCyviGLnDw2#path=/mail" id="2449">
+    <title>LCOM Email</title>
+  </bookmark>
   <bookmark href="https://outlook.office.com/owa/?realm=uvmhealth.org&amp;exsvurl=1&amp;ll-cc=1033&amp;modurl=0" id="35">
     <title>Mail</title>
   </bookmark>
@@ -703,6 +706,9 @@
   </bookmark>
   <bookmark href="https://uvmoffice-my.sharepoint.com/personal/dkgupta_uvm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdkgupta%5Fuvm%5Fedu%2FDocuments%2FTo%20Print&amp;ga=1" id="37">
     <title>To Print - OneDrive</title>
+  </bookmark>
+  <bookmark href="https://outlook.office.com/mail/?realm=med.uvm.edu&amp;login_hint=deepak.gupta@med.uvm.edu" id="2450">
+    <title>LCOM Email Outlook</title>
   </bookmark>
 </folder>
 <folder id="215">
