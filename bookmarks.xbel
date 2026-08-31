@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2452: for Floccus bookmark sync browser extension -->
+<!--- highestId :2453: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6307,6 +6307,9 @@
   </folder>
   <folder id="768">
     <title>BC Docs</title>
+    <bookmark href="https://fahc.sharepoint.com/teams/BinterCenter/Shared%20Documents/Forms/AllItems.aspx" id="2453">
+      <title>Binter Center - Documents - All Documents</title>
+    </bookmark>
     <bookmark href="https://fahc-my.sharepoint.com/:w:/g/personal/deborah_fay_uvmhealth_org/Ed8YQOiIslBGhKpHV8BTcncBtHZzvFKzzOVK87lia-K4lQ?e=KY6MhT" id="805">
       <title>2024-2025 Resident Academic Halfday Lecture Schedule - in progress.docx</title>
     </bookmark>
