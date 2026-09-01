@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2458: for Floccus bookmark sync browser extension -->
+<!--- highestId :2459: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -110,6 +110,9 @@
 </folder>
 <folder id="2">
   <title>Research</title>
+  <bookmark href="https://cciweb01.case.edu/ppmi/login/?next=/ppmi/" id="2459">
+    <title>Sign in | PPMI Clinical Cohort Portal</title>
+  </bookmark>
   <folder id="12">
     <title>CDS-PD</title>
     <bookmark href="https://aistudio.google.com/apps/drive/1cCFe2vkYhi4gcBZDTjdSxrqDMszDNh7o?showPreview=true&amp;showAssistant=true" id="61">
