@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2463: for Floccus bookmark sync browser extension -->
+<!--- highestId :2464: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6129,6 +6129,9 @@
     <title>Freq</title>
     <bookmark href="https://fahc-my.sharepoint.com/my?id=%2Fpersonal%2Fdeepak%5Fgupta%5Fuvmhealth%5Forg%2FDocuments%2FUVMH&amp;viewid=97d67cd6%2Db090%2D435a%2Da486%2Db796fd4e4af9" id="771">
       <title>UVMH - OneDrive</title>
+    </bookmark>
+    <bookmark href="https://onenote.cloud.microsoft/copilotnotebooks?wdOrigin=ONENOTEONLINE.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" id="2464">
+      <title>OneNote</title>
     </bookmark>
     <bookmark href="https://m365.cloud.microsoft/chat/conversation/91b507c3-539f-44f7-8b2f-5fe138245d6d?auth=2&amp;home=1&amp;from=ShellLogo" id="2426">
       <title>Daxxify Conversion</title>
