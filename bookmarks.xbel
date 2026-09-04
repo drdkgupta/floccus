@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2469: for Floccus bookmark sync browser extension -->
+<!--- highestId :2471: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -119,6 +119,12 @@
   <bookmark href="edge://settings/downloads" id="2457">
     <title>Settings - Downloads</title>
   </bookmark>
+  <folder id="2470">
+    <title>2026-08 Machine Learning for Management</title>
+    <bookmark href="https://jhu.instructure.com/courses/132037" id="2471">
+      <title>BU.142.775.31.FA26 Machine Learning for Management</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="2">
   <title>Research</title>
