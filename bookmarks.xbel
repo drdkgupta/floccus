@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2472: for Floccus bookmark sync browser extension -->
+<!--- highestId :2473: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -718,9 +718,6 @@
   </bookmark>
   <bookmark href="https://outlook.office.com/mail/?realm=med.uvm.edu&amp;login_hint=deepak.gupta@med.uvm.edu" id="2450">
     <title>LCOM Email Outlook</title>
-  </bookmark>
-  <bookmark href="chrome://settings/downloads" id="2472">
-    <title>Chrome Settings - Downloads</title>
   </bookmark>
 </folder>
 <folder id="215">
@@ -6186,6 +6183,9 @@
     </bookmark>
     <bookmark href="https://onenote.cloud.microsoft/notebooks/?wdOrigin=ONENOTEONLINE.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" id="2465">
       <title>UVMH OneNote</title>
+    </bookmark>
+    <bookmark href="edge://settings/downloads" id="2473">
+      <title>Settings - Downloads</title>
     </bookmark>
   </folder>
   <folder id="764">
