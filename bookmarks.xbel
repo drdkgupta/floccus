@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2474: for Floccus bookmark sync browser extension -->
+<!--- highestId :2475: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -698,7 +698,7 @@
   <bookmark href="edge://restart/" id="2401">
     <title>Restart Chrome</title>
   </bookmark>
-  <bookmark href="chrome://downloads/" id="2474">
+  <bookmark href="chrome://settings/downloads" id="2475">
     <title>Downloads Settings</title>
   </bookmark>
   <bookmark href="https://chat.google.com/app/home" id="39">
