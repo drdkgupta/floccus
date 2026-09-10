@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2477: for Floccus bookmark sync browser extension -->
+<!--- highestId :2478: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6827,6 +6827,9 @@
       <title>PD</title>
       <bookmark href="https://cndlifesciences.com/patients/" id="864">
         <title>Information about the Syn-One Test for Patients and Caregivers</title>
+      </bookmark>
+      <bookmark href="https://www.choiceandmedication.org/assets/mobile_pdfs/pilldonepeziluk.pdf" id="2478">
+        <title>Donepezil handout</title>
       </bookmark>
       <bookmark href="https://www.michaeljfox.org/news/ask-md-what-orthostatic-hypotension" id="865">
         <title>Ask the MD: What Is Orthostatic Hypotension? | Parkinson&apos;s Disease</title>
