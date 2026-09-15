@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2479: for Floccus bookmark sync browser extension -->
+<!--- highestId :2480: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -662,6 +662,9 @@
       <title>Google Family Link</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.uvmhealth.org/patients-visitors/visitor-information-amenities/dining-options" id="2480">
+    <title>Dining Options | University of Vermont Health</title>
+  </bookmark>
   <bookmark href="https://my.wordpress.com/domains/tcrpd.org/forwarding" id="2458">
     <title>Domain forwarding ‹ tcrpd.org – WordPress.com</title>
   </bookmark>
