@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2482: for Floccus bookmark sync browser extension -->
+<!--- highestId :2484: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -104,10 +104,10 @@
   <bookmark href="https://jhu.instructure.com/login/saml" id="2452">
     <title>Canvas at JHU</title>
   </bookmark>
-  <bookmark href="https://www.library.jhu.edu/" id="2481">
-    <title>The Sheridan Libraries - Sheridan Libraries</title>
+  <bookmark href="https://catalyst.library.jhu.edu/nde/search?query=Pragmatic%20Frameworks%20for%20Clinical%20Compensation%20in%20Academic%20Neurology&amp;tab=CentralIndex&amp;search_scope=CentralIndex&amp;offset=0&amp;lang=en&amp;vid=01JHU_INST:nde" id="2483">
+    <title>Catalyst - Pragmatic Frameworks for Clinical Compensation in Academic Neurology</title>
   </bookmark>
-  <bookmark href="https://catalyst.library.jhu.edu/nde/home?vid=01JHU_INST:nde&amp;lang=en" id="2482">
+  <bookmark href="https://catalyst.library.jhu.edu/nde/home?vid=01JHU_INST:nde&amp;lang=en" id="2484">
     <title>Catalyst</title>
   </bookmark>
   <bookmark href="https://chat.ai.jh.edu/c/new?endpoint=AnthropicClaude&amp;model=claude-opus-4.5-cached" id="2403">
