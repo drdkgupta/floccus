@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2480: for Floccus bookmark sync browser extension -->
+<!--- highestId :2481: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -103,6 +103,9 @@
   </folder>
   <bookmark href="https://jhu.instructure.com/login/saml" id="2452">
     <title>Canvas at JHU</title>
+  </bookmark>
+  <bookmark href="https://www.library.jhu.edu/" id="2481">
+    <title>The Sheridan Libraries - Sheridan Libraries</title>
   </bookmark>
   <bookmark href="https://chat.ai.jh.edu/c/new?endpoint=AnthropicClaude&amp;model=claude-opus-4.5-cached" id="2403">
     <title>HopGPT</title>
