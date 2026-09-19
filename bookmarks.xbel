@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2485: for Floccus bookmark sync browser extension -->
+<!--- highestId :2486: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -119,6 +119,9 @@
       <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
     </bookmark>
   </folder>
+  <bookmark href="https://m365.cloud.microsoft/chat?from=PortalHome&amp;redirfrom=userTypeCookie&amp;redirfrom=cosmicRingCookie" id="2486">
+    <title>Microsoft Copilot</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Research</title>
