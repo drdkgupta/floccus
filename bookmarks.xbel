@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2487: for Floccus bookmark sync browser extension -->
+<!--- highestId :2489: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -104,9 +104,6 @@
   <bookmark href="https://jhu.instructure.com/login/saml" id="2452">
     <title>Canvas at JHU</title>
   </bookmark>
-  <bookmark href="https://m365.cloud.microsoft/chat?from=PortalHome&amp;redirfrom=userTypeCookie&amp;redirfrom=cosmicRingCookie" id="2486">
-    <title>Microsoft Copilot</title>
-  </bookmark>
   <bookmark href="https://catalyst.library.jhu.edu/nde/home?vid=01JHU_INST:nde&amp;lang=en" id="2484">
     <title>Catalyst</title>
   </bookmark>
@@ -121,9 +118,18 @@
     <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2479">
       <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
     </bookmark>
+    <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2488">
+      <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
+    </bookmark>
   </folder>
+  <bookmark href="https://m365.cloud.microsoft/chat?from=PortalHome&amp;redirfrom=userTypeCookie&amp;redirfrom=cosmicRingCookie" id="2486">
+    <title>Microsoft Copilot</title>
+  </bookmark>
   <bookmark href="https://outlook.office.com/mail/?realm=jh.edu&amp;login_hint=dgupta26@jh.edu" id="2487">
     <title>Mail - Deepak Gupta - JHU</title>
+  </bookmark>
+  <bookmark href="https://livejohnshopkins-my.sharepoint.com/my" id="2489">
+    <title>My files - OneDrive - JHU</title>
   </bookmark>
 </folder>
 <folder id="2">
