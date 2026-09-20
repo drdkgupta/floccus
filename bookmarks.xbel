@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2489: for Floccus bookmark sync browser extension -->
+<!--- highestId :2490: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -20,7 +20,7 @@
       <title>2026-05 AI Essentials for Business - Google Drive</title>
     </bookmark>
     <bookmark href="https://gemini.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534" id="42">
-      <title>Google Gemini</title>
+      <title>MBA - 01 - AI Essentials for Business</title>
     </bookmark>
     <bookmark href="https://github.com/Mooler0410/LLMsPracticalGuide" id="2396">
       <title>GitHub - Mooler0410/LLMsPracticalGuide: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) · GitHub</title>
@@ -114,6 +114,9 @@
     <title>2026-08 Machine Learning for Management</title>
     <bookmark href="https://jhu.instructure.com/courses/132037" id="2471">
       <title>BU.142.775.31.FA26 Machine Learning for Management</title>
+    </bookmark>
+    <bookmark href="https://gemini.google.com/notebook/9d16c27c-3c08-460e-8b4f-d970a70d81de" id="2490">
+      <title>Google Gemini</title>
     </bookmark>
     <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2479">
       <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
