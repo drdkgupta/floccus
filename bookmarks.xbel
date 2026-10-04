@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2497: for Floccus bookmark sync browser extension -->
+<!--- highestId :2502: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -4268,6 +4268,21 @@
       <title>FHTMS</title>
       <bookmark href="https://docs.google.com/document/d/1x29A2k5PZIGtWgFNOctMCfCfIZrpgTr7i0ggG2Cr0dA/edit?tab=t.0" id="2448">
         <title>26/27 Verve Assignments - Google Docs</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/parent/home" id="2498">
+        <title>Summary | Schoology</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/course/8510298494/materials" id="2499">
+        <title>Math 6 : POD 2 Q1 | Schoology</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/course/8510283958/student_grades" id="2500">
+        <title>Science 6: Pod 2 | Schoology</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/course/8510283654/student_grades" id="2501">
+        <title>Soc Stud 6: Pod 2 | Schoology</title>
+      </bookmark>
+      <bookmark href="https://app.schoology.com/course/8510312119/preview/143679966/parent" id="2502">
+        <title>ELA : Verve - Pod 2 | Schoology</title>
       </bookmark>
     </folder>
   </folder>
