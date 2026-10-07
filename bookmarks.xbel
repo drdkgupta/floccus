@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2504: for Floccus bookmark sync browser extension -->
+<!--- highestId :2505: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -4288,9 +4288,6 @@
         <title>ELA : Verve - Pod 2 | Schoology</title>
       </bookmark>
     </folder>
-    <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100088849&amp;from=Galaxy-Redirect" id="2504">
-      <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
-    </bookmark>
   </folder>
   <folder id="1617">
     <title>Kavya</title>
@@ -6139,6 +6136,12 @@
         </bookmark>
         <bookmark href="https://welearning.epic.com/Details?CSN=679985" id="898">
           <title>Builder Bites: Dynamic Documentation - weLearning</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100088849&amp;from=Galaxy-Redirect" id="2504">
+          <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100243363&amp;from=Galaxy-Redirect" id="2505">
+          <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
         </bookmark>
       </folder>
       <folder id="834">
