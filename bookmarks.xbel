@@ -6243,9 +6243,6 @@
       <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!230!3670293&amp;from=Galaxy-Redirect" id="962">
         <title>Galaxy - Physician Power User Training (All Chapters)</title>
       </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicProject/SitePages/Epic-Thrive-Training-Program.aspx" id="963">
-        <title>Thrive Program</title>
-      </bookmark>
       <bookmark href="https://comlib.epic.com/" id="964">
         <title>Community Library</title>
       </bookmark>
@@ -6254,9 +6251,6 @@
       </bookmark>
       <bookmark href="https://comlib.epic.com/#?query=&amp;customers=&amp;tags=&amp;type=All&amp;pagesize=100&amp;pageindex=0&amp;id=1477302131" id="976">
         <title>Community Library -</title>
-      </bookmark>
-      <bookmark href="https://www.datasciencecentral.com/profiles/blogs/mumps-the-most-important-database-you-probably-never-heard-of" id="977">
-        <title>MUMPS – The Most Important Database You (Probably) Never Heard Of - Data Science Central</title>
       </bookmark>
       <bookmark href="https://www.healthcareitnews.com/news/what-does-intersystems-cach%C3%A9-have-do-epic" id="978">
         <title>What does InterSystems&amp;#39; Caché have to do with Epic&amp;#39;s EHR? | Healthcare IT News</title>
@@ -6420,6 +6414,9 @@
     </folder>
     <folder id="818">
       <title>CI Team</title>
+      <bookmark href="https://fahc.sharepoint.com/teams/EpicProject/SitePages/Epic-Thrive-Training-Program.aspx" id="963">
+        <title>Thrive Program</title>
+      </bookmark>
       <bookmark href="https://fahc.sharepoint.com/teams/EpicPSC/Shared%20Documents/Forms/AllItems.aspx?ga=1&amp;id=%2Fteams%2FEpicPSC%2FShared%20Documents%2FResources%2FUVMHN%20SC%20Resources.pdf&amp;parent=%2Fteams%2FEpicPSC%2FShared%20Documents%2FResources" id="839">
         <title>Epic Provider Specialty Champions - UVMHN SC Resources.pdf - All Documents</title>
       </bookmark>
