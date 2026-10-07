@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2505: for Floccus bookmark sync browser extension -->
+<!--- highestId :2506: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6140,9 +6140,6 @@
         <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100088849&amp;from=Galaxy-Redirect" id="2504">
           <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
         </bookmark>
-        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100243363&amp;from=Galaxy-Redirect" id="2505">
-          <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
-        </bookmark>
       </folder>
       <folder id="834">
         <title>CLN155 Builder Bites</title>
@@ -6160,6 +6157,9 @@
         </bookmark>
         <bookmark href="https://welearning.epic.com/Details?CSN=582472" id="903">
           <title>Builder Bites: Dynamic SmartSets - weLearning</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100243363&amp;from=Galaxy-Redirect" id="2505">
+          <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
         </bookmark>
       </folder>
       <folder id="835">
@@ -6181,6 +6181,9 @@
         </bookmark>
         <bookmark href="https://welearning.epic.com/Details?CSN=558283" id="909">
           <title>Builder Bites: Procedure SmartForms - weLearning</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100245627&amp;from=Galaxy-Redirect" id="2506">
+          <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
         </bookmark>
       </folder>
       <folder id="836">
