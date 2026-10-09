@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2510: for Floccus bookmark sync browser extension -->
+<!--- highestId :2511: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6336,6 +6336,9 @@
     </folder>
     <folder id="818">
       <title>CI Team</title>
+      <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/%24vtb.do%3Fsysparm_board%3D158ab3f31b27e15042b8dac4bd4bcb81?ct=1791559394980" id="2511">
+        <title>VTB: IT Clinical Informatics SAFe stories by State | UVMHN | ServiceNow</title>
+      </bookmark>
       <bookmark href="https://fahc.sharepoint.com/teams/DMO/SitePages/DMO-Documents.aspx" id="1005">
         <title>Helpful Documents</title>
       </bookmark>
