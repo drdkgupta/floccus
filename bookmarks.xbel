@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2542: for Floccus bookmark sync browser extension -->
+<!--- highestId :2544: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6083,462 +6083,6 @@
       </bookmark>
     </folder>
   </folder>
-  <folder id="769">
-    <title>Informatics</title>
-    <folder id="815">
-      <title>NI</title>
-      <bookmark href="https://access.epic.com/Citrix/XenApp7-VeronaWeb/" id="823">
-        <title>Epic Foundation Hosted</title>
-      </bookmark>
-      <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/dmn_demand_list.do%3Fsysparm_query%3DstateNOT%2520IN9%2C5%2C10%2C7%5Estage%3Ddemand%26sysparm_view%3Dundefined" id="824">
-        <title>Demand List | UVMHN | ServiceNow</title>
-      </bookmark>
-      <bookmark href="https://uvmhealth.service-now.com/now/platform-analytics-workspace/dashboards/params/edit/false/sys-id/9cb7b7f07907e90c8f5ce2a32dd0f986" id="825">
-        <title>SNOW Summary | Platform Analytics | ServiceNow</title>
-      </bookmark>
-      <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/%24vtb.do" id="826">
-        <title>Available Boards | UVMHN | ServiceNow</title>
-      </bookmark>
-      <bookmark href="https://fahc-my.sharepoint.com/my?id=%2Fpersonal%2Fdeepak_gupta_uvmhealth_org%2FDocuments%2FNeurology%20Informatics&amp;FolderCTID=0x0120007BD5FE83DBE14F44B786F0F20EAE1074" id="827">
-        <title>Neurology Informatics - OneDrive</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!240!2956273" id="828">
-        <title>Galaxy - CLN160 Physician Build - Advanced Training Companion</title>
-      </bookmark>
-      <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeepak_gupta_uvmhealth_org%2FDocuments%2FNeurology%20Informatics&amp;FolderCTID=0x0120007BD5FE83DBE14F44B786F0F20EAE1074&amp;view=0" id="829">
-        <title>Neurology Informatics - OneDrive</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicProviderSmartUsers" id="830">
-        <title>Epic Provider SmartUsers - Home</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:o:/t/EpicClinicalTeam/EiCk6_HzEfhHoWawab0P3h0BZWQXPN_a2YGqmyfbT9_ELQ?isSPOFile=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yNDAyMDExOTMwNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9" id="831">
-        <title>Epic Clinical Team Notebook</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,2956367&amp;from=Galaxy-Redirect" id="832">
-        <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,2956357&amp;from=Galaxy-Redirect" id="934">
-        <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
-      </bookmark>
-    </folder>
-    <folder id="816">
-      <title>Epic</title>
-      <folder id="2508">
-        <title>Courses</title>
-        <folder id="833">
-          <title>CLN145 Builder Bites</title>
-          <bookmark href="https://welearning.epic.com/Details?CSN=557751" id="893">
-            <title>Builder Bites: SmartLinks - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=557750" id="894">
-            <title>Builder Bites: SmartPhrases - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=557752" id="895">
-            <title>Builder Bites: SmartLists - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=558278" id="896">
-            <title>Builder Bites: SmartTexts - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=557597" id="897">
-            <title>Builder Bites: Overview of Epic Data Structure - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=679985" id="898">
-            <title>Builder Bites: Dynamic Documentation - weLearning</title>
-          </bookmark>
-          <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100088849&amp;from=Galaxy-Redirect" id="2504">
-            <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
-          </bookmark>
-        </folder>
-        <folder id="834">
-          <title>CLN155 Builder Bites</title>
-          <bookmark href="https://welearning.epic.com/Details?CSN=558281" id="899">
-            <title>Builder Bites: BestPractice Advisories - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=583420" id="900">
-            <title>Builder Bites: System Preference Lists - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=558326" id="901">
-            <title>Builder Bites: SmartSets - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=559714" id="902">
-            <title>Builder Bites: Order Sets - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=582472" id="903">
-            <title>Builder Bites: Dynamic SmartSets - weLearning</title>
-          </bookmark>
-          <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100243363&amp;from=Galaxy-Redirect" id="2505">
-            <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
-          </bookmark>
-        </folder>
-        <folder id="835">
-          <title>CLN165 Builder Bites</title>
-          <bookmark href="https://welearning.epic.com/Details?CSN=680522" id="904">
-            <title>Builder Bites: Flowsheet - Basics - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=680527" id="905">
-            <title>Builder Bites: Flowsheet - Advanced - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=566608" id="906">
-            <title>Builder Bites: Review Flowsheets - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=576257" id="907">
-            <title>Builder Bites: Synopsis - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=557753" id="908">
-            <title>Builder Bites: SmartBlock SmartForms - weLearning</title>
-          </bookmark>
-          <bookmark href="https://welearning.epic.com/Details?CSN=558283" id="909">
-            <title>Builder Bites: Procedure SmartForms - weLearning</title>
-          </bookmark>
-          <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100245627&amp;from=Galaxy-Redirect" id="2506">
-            <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
-          </bookmark>
-        </folder>
-        <folder id="836">
-          <title>Epic Courses</title>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-50709-XLOCSN-653335-XVE-1253-EXACT-0-CERTCSN-653337&amp;ApplicationID=2" id="910">
-            <title>Physician Builder: Analytics</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-50690-XLOCSN-653889-XVE-1253-EXACT-0-CERTCSN-653891&amp;ApplicationID=2" id="911">
-            <title>Clinical Content Builder</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-41335-XLOCSN-653607-XVE-1253-EXACT-0-CERTCSN-653609&amp;ApplicationID=2" id="912">
-            <title>Patient-Entered Data</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;VersionID=1253&amp;TrackID=XLOID-109908-XLOCSN-678383-XVE-1253-EXACT-0-CERTCSN-678764" id="913">
-            <title>Cosmos for Data Scientists</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;VersionID=1253&amp;TrackID=XLOID-81177-XLOCSN-663234-XVE-1253-EXACT-0-CERTCSN-663236" id="914">
-            <title>Cosmos Data Model for Data Architects</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-47779-XLOCSN-653976-XVE-1253-EXACT-0-CERTCSN-653978&amp;ApplicationID=2" id="915">
-            <title>Epic for the Clinical Informaticist</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;TrackID=XLOID-54789-XLOCSN-660656-XVE-1253-EXACT-0-CERTCSN-660658" id="1015">
-            <title>Cosmos Super User Badge</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;TrackID=XLOID-109908-XLOCSN-678383-XVE-1253-EXACT-0-CERTCSN-678764" id="1016">
-            <title>Cosmos for Data Scientists</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;RoleID=14&amp;TrackID=XLOID-75603-XLOCSN-663169-XVE-1253-EXACT-0-CERTCSN-651346" id="1017">
-            <title>Cogito for the Physician Builder</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;TrackID=XLOID-76499-XLOCSN-660621-XVE-1253-EXACT-0-CERTCSN-660623" id="1027">
-            <title>Cosmos Researcher User Badge</title>
-          </bookmark>
-        </folder>
-        <folder id="837">
-          <title>Epic Training Status</title>
-          <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-54789-XLOCSN-660656-XVE-1253-EXACT-0-CERTCSN-660658&amp;xveId=1253&amp;locationId=1&amp;goal=Badge" id="916">
-            <title>Cosmos Super User Badge</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-109908-XLOCSN-678383-XVE-1253-EXACT-0-CERTCSN-678764&amp;xveId=1253&amp;locationId=1&amp;goal=Certification" id="917">
-            <title>Cosmos for Data Scientists</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-81177-XLOCSN-663234-XVE-1253-EXACT-0-CERTCSN-663236&amp;xveId=1253&amp;locationId=1&amp;goal=Certification" id="918">
-            <title>Cosmos Data Model for Data Architects</title>
-          </bookmark>
-          <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-50709-XLOCSN-560028-XVE-1249-EXACT-0-CERTCSN-560030&amp;xveId=1249&amp;locationId=1&amp;goal=Certification" id="919">
-            <title>Physician Builder Analytics</title>
-          </bookmark>
-        </folder>
-      </folder>
-      <folder id="2507">
-        <title>Webinars</title>
-        <bookmark href="https://userweb.epic.com/Webinar/View/7071/Physician-Builder-Spotlight-37-Using-Human-Factors-to-Drive/" id="996">
-          <title>PB Spotlight #37: Think like a User: Considering Human Factors to Drive Intelligent Build</title>
-        </bookmark>
-        <bookmark href="https://userweb.epic.com/Webinar/View/5233/Physician-Builder-Spotlight-Webinar-17-One-Form-to-Rule-Them/" id="995">
-          <title>Physician Builder Spotlight Webinar #17: One Form to Rule Them All with Olutoyin Fayemi</title>
-        </bookmark>
-        <bookmark href="https://userweb.epic.com/Webinar/View/4055" id="994">
-          <title>Physician Builder Spotlight: Smartform and Notewriter Build with Chris Sallee</title>
-        </bookmark>
-        <bookmark href="https://userweb.epic.com/Webinar/View/4965/Physician-Builder-Spotlight-Smartforms-to-Allow-Easy-Consis/" id="939">
-          <title>Physician Builder Spotlight: Smartforms to Allow Easy &amp; Consistent Documentation with Todd Richwine</title>
-        </bookmark>
-      </folder>
-      <folder id="2509">
-        <title>Userweb</title>
-        <bookmark href="https://userweb.epic.com/Thread/93830/Video-capture-in-Haiku/?repliesSince=2021-12-15T11%3a36%3a27&amp;reply=542587" id="991">
-          <title>Video capture in Haiku</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://cosmos.epichosted.com/" id="1030">
-        <title>Epic Cosmos</title>
-      </bookmark>
-      <bookmark href="https://epictogetherny.org/Docs/EpicTogether_Glossary.pdf" id="838">
-        <title>Glossoary of Epic Terms</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1240&amp;ViewID=train-tracks&amp;RoleID=11&amp;TrackID=XLOID-47779-XLOCSN-354144-XVE-1240-EXACT-0-CERTCSN-354146" id="936">
-        <title>Course Catalog</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!600!100020447" id="937">
-        <title>Galaxy - Physician Newsletter</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!490!100050345&amp;from=Galaxy-Redirect" id="938">
-        <title>Galaxy - High-Impact Tasks for Physician Builders</title>
-      </bookmark>
-      <bookmark href="https://comlib.epic.com/" id="964">
-        <title>Community Library</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/" id="965">
-        <title>Training Home</title>
-      </bookmark>
-      <bookmark href="https://comlib.epic.com/#?query=&amp;customers=&amp;tags=&amp;type=All&amp;pagesize=100&amp;pageindex=0&amp;id=1477302131" id="976">
-        <title>Community Library -</title>
-      </bookmark>
-      <bookmark href="https://userweb.epic.com/" id="979">
-        <title>Epic UserWeb</title>
-      </bookmark>
-      <bookmark href="https://www.ehrn.org/" id="993">
-        <title>Epic Health Research Network</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!600!100020447&amp;rank=1&amp;queryid=122900176&amp;docid=115432" id="1006">
-        <title>Galaxy - Physician Newsletter</title>
-      </bookmark>
-      <bookmark href="https://userweb.epic.com/Topic/PhysicianBuilder" id="1019">
-        <title>Physician Builder</title>
-      </bookmark>
-      <bookmark href="https://welearning.epic.com/Browse" id="1026">
-        <title>Browse Lessons - weLearning</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicCON/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEpicCON%2FShared%20Documents%2FTraining%2FTraining%20Wheels%2FCupid%2Fzzz%20Do%20Not%20Use%2FTraining%20Planning%2FTraining%20Wheels%20How-To%2FPartner%20with%20Specialty%20Champions%20on%20Curriculum.pdf&amp;parent=%2Fteams%2FEpicCON%2FShared%20Documents%2FTraining%2FTraining%20Wheels%2FCupid%2Fzzz%20Do%20Not%20Use%2FTraining%20Planning%2FTraining%20Wheels%20How-To" id="2513">
-        <title>https://fahc.sharepoint.com/teams/EpicCON/Shared Documents/Forms/AllItems.aspx?id=%2Fteams%2FEpicCON%2FShared Documents%2FTraining%2FTraining Wheels%2FCupid%2Fzzz Do Not Use%2FTraining Planning%2FTraining Wheels How-To%2FPartner with Specialty Champions on Curriculum%2Epdf&amp;parent=%2Fteams%2FEpicCON%2FShared Documents%2FTraining%2FTraining Wheels%2FCupid%2Fzzz Do Not Use%2FTraining Planning%2FTraining Wheels How-To</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:p:/r/teams/SprintOptimizationTeam/_layouts/15/Doc.aspx?sourcedoc=%7B50916995-2EAD-459D-9E89-23001029EF6C%7D&amp;file=FY%202021%20FPC.pptx&amp;action=edit&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="2514">
-        <title>FY 2021 FPC.pptx</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!280!4049505" id="2515">
-        <title>Galaxy - Power User Capstone Submission</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/Search/GetFile?url=1%2168%21100%21100031398&amp;rank=1&amp;queryid=65120873&amp;docid=120339" id="2516">
-        <title>Learn from the Best - Physician Builder Programs.pdf</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!230!3670293&amp;from=Galaxy-Redirect" id="2517">
-        <title>Galaxy - Physician Power User Training (All Chapters)</title>
-      </bookmark>
-      <bookmark href="https://www.datasciencecentral.com/profiles/blogs/mumps-the-most-important-database-you-probably-never-heard-of" id="2518">
-        <title>MUMPS – The Most Important Database You (Probably) Never Heard Of - Data Science Central</title>
-      </bookmark>
-      <bookmark href="https://www.healthcareitnews.com/news/what-does-intersystems-cach%C3%A9-have-do-epic" id="2519">
-        <title>What does InterSystems&amp;#39; Caché have to do with Epic&amp;#39;s EHR? | Healthcare IT News</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-51887-XLOCSN-362543-XVE-1240-EXACT-0-CERTCSN-362545&amp;xveId=1240&amp;forceServerLoad=True" id="2520">
-        <title>Physician Power User Training Track Progress</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!642!100121785&amp;from=Galaxy-Redirect" id="2521">
-        <title>Galaxy - CLN150v Virtual Class Documentation Collection</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared%20Documents%2FPlanning%2FEpic%20Optimization%20Sprint%20FY21%20Executive%20Summary.pdf&amp;parent=%2Fteams%2FSprintOptimizationTeam%2FShared%20Documents%2FPlanning" id="2522">
-        <title>https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared Documents%2FPlanning%2FEpic Optimization Sprint FY21 Executive Summary%2Epdf&amp;parent=%2Fteams%2FSprintOptimizationTeam%2FShared Documents%2FPlanning</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared%20Documents%2FSprint%20Resources%2FNeurology&amp;p=true" id="2523">
-        <title>https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared Documents%2FSprint Resources%2FNeurology&amp;p=true</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:p:/r/teams/SprintOptimizationTeam/_layouts/15/Doc.aspx?sourcedoc=%7B5E9FF09E-541B-43F8-BD59-111FF740971B%7D&amp;file=CollaborativeReportUVM%20Data%20Review%20Presentation%202019.pptx&amp;action=edit&amp;mobileredirect=true" id="2524">
-        <title>CollaborativeReportUVM Data Review Presentation 2019.pptx</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-50522-XLOCSN-560116-XVE-1249-EXACT-0-CERTCSN-560118&amp;xveId=1249&amp;locationId=1&amp;goal=Certification" id="2525">
-        <title>PB Core Training Track Progress</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/CourseCatalog/#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;RoleID=14&amp;TrackID=XLOID-50522-XLOCSN-653004-XVE-1253-EXACT-0-CERTCSN-653006&amp;ApplicationID=2" id="2526">
-        <title>Physician Builder: Core</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100088849&amp;rank=1&amp;queryid=122896777&amp;docid=136224" id="2527">
-        <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100243363&amp;rank=1&amp;queryid=122896463&amp;docid=162818" id="2528">
-        <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627&amp;rank=2&amp;queryid=122896429&amp;docid=163161" id="2529">
-        <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245881&amp;rank=1&amp;queryid=122780453&amp;docid=163219" id="2530">
-        <title>Galaxy - CLN175 Physician Builder: Workspace Configuration and Review Tools Training Companion</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/CourseCatalog/#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;RoleID=14&amp;TrackID=XLOID-50709-XLOCSN-653335-XVE-1253-EXACT-0-CERTCSN-653337&amp;ApplicationID=2" id="2531">
-        <title>Physician Builder: Analytics</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100247840&amp;rank=1&amp;queryid=122897322&amp;docid=163462" id="2532">
-        <title>Galaxy - CLN176 Physician Builder Analytics Training Companion</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!200!100097842&amp;from=Galaxy-Redirect" id="2533">
-        <title>Galaxy - SmartUser FAQ</title>
-      </bookmark>
-      <bookmark href="https://welearning.epic.com/Browse?sort=NumViews" id="2534">
-        <title>Most Viewed eLearning</title>
-      </bookmark>
-      <bookmark href="https://welearning.epic.com/Details?CSN=582469" id="2535">
-        <title>Builder Bites: Navigator Build - Basics - weLearning</title>
-      </bookmark>
-      <bookmark href="https://welearning.epic.com/Details?CSN=234929" id="2536">
-        <title>Navigating Clinical Administration for Clinical Applications - weLearning</title>
-      </bookmark>
-      <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-50522-XLOCSN-358568-XVE-1240-EXACT-0-CERTCSN-358570&amp;xveId=1240&amp;locationId=1&amp;goal=Certification" id="2537">
-        <title>PB Core EpicU - Training Track Progress</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100088990&amp;from=Galaxy-Redirect" id="2538">
-        <title>Galaxy - Physician Training - 2024 Changes</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100247840&amp;from=Galaxy-Redirect" id="2539">
-        <title>Galaxy - CLN176 Physician Builder Analytics Training Companion</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!600!100020447&amp;rank=1&amp;queryid=122830918&amp;docid=115432" id="2540">
-        <title>Galaxy - Physician Newsletter</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicTrainingSupport/_layouts/15/Doc.aspx?sourcedoc=%7B4b3f51f7-07cf-45fa-a6a3-63c528367629%7D&amp;action=view&amp;wd=target%2528Power%2520Point%2520Template%257C52acffd2-3bb0-4af8-b92e-7eff3c77c2de%252F%2529" id="2541">
-        <title>Speciality Champion Meetings.one</title>
-      </bookmark>
-    </folder>
-    <folder id="817">
-      <title>NTW</title>
-      <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/TechnologyWorkgroup/_layouts/15/guestaccess.aspx?e=Oc3hbV&amp;share=EfT89Hvbq8hJnT_-hER7nDwBZYxTGmIiPBKmsUDsFeOiJQ" id="843">
-        <title>Technology Workgroup Charter.docx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/TechnologyWorkgroup/_layouts/15/guestaccess.aspx?e=Dd0tI1&amp;share=EZDX7SZRVtFFsCZ8ojnmSpsB3AamXFpkolAUvOoBfRNA-Q" id="844">
-        <title>technology workgroup handout.docx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/TechnologyWorkgroup/_layouts/15/listforms.aspx?cid=YjQ2ZmM1MWQtNjYyMi00NTA0LTg1Y2UtYmU0MTg4OGNiZWRk&amp;nav=ZDM4N2U0ZDgtNzEyNi00MTA0LWE1ZjgtYWI0MGZiYTExMzg5" id="845">
-        <title>CI Team&apos;s TW Request Form</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/TechnologyWorkgroup/Lists/Technology%20Workgroup%20Intake/AllItems.aspx?viewid=128bdfcb-5551-43c0-8c99-6b071ce94f47&amp;env=WebViewList&amp;CT=1768409410550&amp;OR=OWA-NT-Mail&amp;CID=fea808ba-e6ec-939e-7daf-2aece22220ba" id="846">
-        <title>CI Team&apos;s NTW Dashboard</title>
-      </bookmark>
-      <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/listforms.aspx?cid=NjQyOTBkZDQtNzMxZS00OGUyLTgzY2ItNTFlMzc3MTVkM2M2&amp;nav=OTZjY2EwZGMtZjk0OS00MWJiLThjNDItM2NjNzhmOTkzMDM5" id="847">
-        <title>Neurology&apos;s TW Request Form</title>
-      </bookmark>
-      <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/Lists/Neurology%20Technology%20Intake%20Request%20Form/AllItems.aspx?viewid=5eb508dc-20ba-474f-b325-d4636706e77c&amp;env=WebViewList" id="848">
-        <title>Neurology&apos;s NTW Dashboard</title>
-      </bookmark>
-      <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/Doc.aspx?sourcedoc={3f70c89a-56c6-456f-b47d-b741bf3f83cd}&amp;action=edit&amp;wd=target%28Members.one%7C25d4fc72-4940-49c0-bc82-49547f36d7ba%2FMembers%7Caa6abd9f-0752-4083-b323-f8e8e56170db%2F%29&amp;wdorigin=NavigationUrl" id="2377">
-        <title>Neurology Technology Workgroup OneNote</title>
-      </bookmark>
-      <bookmark href="https://fahc-my.sharepoint.com/:x:/g/personal/deepak_gupta_uvmhealth_org/IQDwjxVo0zgEQLdeR5-vdkLfAc-dnubNiu6Wzc2VYAhFqqI?e=7Fsoep&amp;ct=1788276505760" id="2460">
-        <title>Neurology Backlog 2025 Demands.xlsx</title>
-      </bookmark>
-      <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/dmn_demand_list.do%3Fsysparm_query%3Dassigned_to%253D54787111dbcb324078fadbbb5e961965%255EORassigned_to%253Dc769443cdbac0340dd1a591e5e96190b%255Estate!%253D9%255Estate!%253D10%255Estate!%253D7%255Esafe_featureISEMPTY%255Esafe_epicISEMPTY%255Esafe_storyISEMPTY%255Esys_tags.11d18a4c2b1c7210583bf6bfc891bfcf%253D11d18a4c2b1c7210583bf6bfc891bfcf%26sysparm_first_row%3D1%26sysparm_view%3D" id="849">
-        <title>Demands | UVMHN | ServiceNow | UVMHN | ServiceNow</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/t/UVMHNITSharedServices/IQAmzasMbzBZQo48R-e2hQ7oAdXdpFfdSb8OOaqjl2qznkc?e=VtGgV9&amp;CID=790c2032-6e7d-f146-9af2-13a508614bf3&amp;SI=NonSentItems" id="2375">
-        <title>Prioritized Features Oberon 07072026.xlsx</title>
-      </bookmark>
-      <bookmark href="https://uvmhealth.service-now.com/sp?id=esc_sc_category&amp;sys_id=95fc11615f1211001c9b2572f2b477c6&amp;catalog_id=e0d08b13c3330100c8b837659bba8fb4&amp;spa=1" id="850">
-        <title>Catalogs - UVM Health Service Portal</title>
-      </bookmark>
-    </folder>
-    <folder id="818">
-      <title>CI Team</title>
-      <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/%24vtb.do%3Fsysparm_board%3D158ab3f31b27e15042b8dac4bd4bcb81?ct=1791559394980" id="2511">
-        <title>VTB: IT Clinical Informatics SAFe stories by State | UVMHN | ServiceNow</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicProviderSmartUsers/_layouts/15/Doc.aspx?sourcedoc={b3867cfd-2ae3-4eed-a0ea-2fe4e64ea1af}&amp;action=edit&amp;wd=target%28Agendas.one%7Ce050f99b-4491-4e2e-86e3-b0e866f67482%2F2026%7Cd0145977-4ad1-4031-b672-68ffd390d69c%2F%29&amp;wdorigin=NavigationUrl" id="2395">
-        <title>Epic Provider SmartUsers Notebook</title>
-      </bookmark>
-      <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,100245629&amp;from=Galaxy-Redirect" id="851">
-        <title>CLN165 Physician Builder</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/UVMHN-Departments/Information-Technology/Clinical-Informatics" id="852">
-        <title>Clinical Informatics - Home</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEpicClinicalTeam%2FShared%20Documents%2FDepartment%20Clinical%20Informaticist%2FDepartment%20Specific%20Documents%2FNeurology&amp;viewid=c91a488f-f7e0-4858-a796-b033597ab4c3" id="853">
-        <title>UVMHNCT Team Documents - Neurology</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7B5D03203F-4DDD-40E3-B7E1-98F38A3B0222%7D&amp;file=FY26%20OKRs%20and%20Goals.xlsx&amp;nav=MTVfezhGODI4OTdCLTIyMTEtNDZEMC1CQUM4LTI3RENBNTU2NEMzM30&amp;action=default&amp;mobileredirect=true" id="854">
-        <title>FY26 OKRs and Goals.xlsx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7Ba68804d4-9e4d-4d04-8b8e-3eb8a539dead%7D&amp;action=edit&amp;wd=target%2528Responsibilities.one%257Cb5a2cc01-1cf8-4561-bc1f-9d6059cf7257%252FDCI%2520Roster%257C5a956763-ebd9-420b-bbdf-82195fa1fa53%252F%2529&amp;wdorigin=NavigationUrl" id="855">
-        <title>Department Clinical Informaticist</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7Bf1eba420-11f3-47f8-a166-b069bd0fde1d%7D&amp;action=edit&amp;wd=target%2528Team%2520members%2520and%2520orientation.one%257C3a5bd723-8a86-430b-8dd5-2190ed639ada%252FLINKS%257C01792bf8-962c-48de-8219-ff399e440fe5%252F%2529&amp;wdorigin=NavigationUrl" id="856">
-        <title>Epic Clinical Team Notebook</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicClinicalTeam-NetworkMDCI/ESTqld-mi5tEvG0KC3sh3G8B1TV_PE8CxJe8XVHIZHADow?e=Q0K9sV" id="857">
-        <title>Informatics Roster to Post.xlsx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:o:/r/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7Bf1eba420-11f3-47f8-a166-b069bd0fde1d%7D&amp;action=edit&amp;CID=406f5ca1-a02c-6000-bc4f-ff02cd6e368c&amp;cidOR=SPO" id="858">
-        <title>CI Team Meetings Agenda</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/epicclinicalteam?CT=1735847317246&amp;OR=OWA-NT-Mail&amp;CID=524b6c6d-7c43-0342-0264-a2a2229e6470" id="859">
-        <title>UVMHN Clinical Informatics Team - Home</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicClinicalTeam/EXLa8xcpzTJDgzJ8gj0BH1kBKlTQm0jEuR6YQtKmdu3nJQ?CID=fa0a458f-ad4d-fb85-8b29-d17cc08ac63b" id="860">
-        <title>BRP DCI partnerships.xlsx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/sites/uvmhnpolicy/SitePages/Home.aspx" id="940">
-        <title>UVM Health Network Policies - Home</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/Shared%20Documents/Forms/AllItems.aspx" id="941">
-        <title>UVMHN Clinical Informatics Team - Documents - All Documents</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/DMO/SitePages/DMO-Documents.aspx" id="1005">
-        <title>Helpful Documents</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicTrainingSupport/_layouts/15/Doc.aspx?sourcedoc=%7B4b3f51f7-07cf-45fa-a6a3-63c528367629%7D&amp;action=view&amp;wd=target%28Power%20Point%20Template%7C52acffd2-3bb0-4af8-b92e-7eff3c77c2de%2F%29" id="1003">
-        <title>Speciality Champion Meetings.one</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?action=edit&amp;sourcedoc=%7B653AAF1E-9DAF-40F3-972F-B54A51A00939%7D" id="1000">
-        <title>Roster with photos.docx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicPSC/EaGv_l315kBErINMTp0GUnwB66vZuFKSumEkrPt01hG1HQ?e=Dzyjyo&amp;wdLOR=c12EECD8C-E67D-0C4D-92A1-081463DD34ED" id="992">
-        <title>Specialty Champions roster full.xlsx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicProject/SitePages/Epic-Thrive-Training-Program.aspx" id="963">
-        <title>Thrive Program</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/EpicPSC/Shared%20Documents/Forms/AllItems.aspx?ga=1&amp;id=%2Fteams%2FEpicPSC%2FShared%20Documents%2FResources%2FUVMHN%20SC%20Resources.pdf&amp;parent=%2Fteams%2FEpicPSC%2FShared%20Documents%2FResources" id="839">
-        <title>Epic Provider Specialty Champions - UVMHN SC Resources.pdf - All Documents</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:p:/r/teams/SprintOptimizationTeam/_layouts/15/Doc.aspx?sourcedoc=%7BFE981AA8-42BA-49EA-9615-9BF2C030623F%7D&amp;file=UVMHN%20CI%20slides.pptx&amp;action=edit&amp;mobileredirect=true" id="840">
-        <title>UVMHN CI slides.pptx</title>
-      </bookmark>
-    </folder>
-    <folder id="819">
-      <title>Consult Design Intake</title>
-      <bookmark href="https://fahc-my.sharepoint.com/:p:/g/personal/katelin_morrissette_uvmhealth_org/IQDTnqfRKzDsQKuCsUvkGReqAQjr5SKRN7x8YAAZZ4QPqCo?e=Ju0rIQ" id="861">
-        <title>Order Template Options.pptx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicClinicalTeam/IQABpoYQe_E8Q7UPuxN0kZGhAdbNenlMIrsIwFuGXBdPems?e=BaauTF" id="862">
-        <title>Call schedule source June 2026.xlsx</title>
-      </bookmark>
-      <bookmark href="https://forms.office.com/pages/responsepage.aspx?id=N5_AX1rck0iVwK47te8Y38Ax9QHV1rJDuzByFFFkqpdUNkZMUVZHVlRJRURZWkJGRFhVUjhLSlBWNy4u&amp;route=shorturl" id="863">
-        <title>Consult design intake</title>
-      </bookmark>
-    </folder>
-    <folder id="2372">
-      <title>SharePoint</title>
-      <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7BB1307513-D814-4301-92BF-00545ADB04FD%7D&amp;file=SecurityModel.xlsx&amp;action=default&amp;mobileredirect=true" id="2373">
-        <title>SecurityModel.xlsx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/UVMMC-NeuroHub/?or=EXCEL-WEB.BODY.NT&amp;ct=1783449848322" id="2374">
-        <title>UVMMC Neurology Hub - Home</title>
-      </bookmark>
-    </folder>
-    <folder id="2419">
-      <title>Links</title>
-      <bookmark href="https://fahc.sharepoint.com/teams/UVMHNITSharedServices/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FGeneral%20IT%20Info%2FIT%20Org%20Aug%202026%2Epdf&amp;parent=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FGeneral%20IT%20Info" id="2444">
-        <title>IT Org Aug 2026</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/AlvarezMarsalAMTeamsChannel/_layouts/15/Doc.aspx?sourcedoc=%7B795B287A-1804-4CB2-AB43-14FA5F25FB7C%7D&amp;file=DCI%20Build%20Review%20Tracker.docx&amp;action=default&amp;mobileredirect=true" id="2420">
-        <title>DCI Build Review Tracker.docx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/UVMHNITSharedServices/_layouts/15/Doc.aspx?sourcedoc=%7B16C60C12-9399-486E-AF3C-D5B34B73B308%7D&amp;file=2025%20Business%20Owner%20Questionnaire%20DO%20NOT%20EDIT%20-%20Copy.docx&amp;action=default&amp;mobileredirect=true&amp;wdOrigin=LOOP-WEB.PREVIEW.NT&amp;wduihid=b1a50ddc-342a-4215-acab-98b848846f4c&amp;web=1&amp;CID=757b36b6-9356-ab1a-5cfe-7bb7e4fd3855" id="2421">
-        <title>2026 Business Owner Questionnaire DO NOT EDIT - Copy.docx</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/teams/UVMHNITSharedServices/Shared%20Documents/Forms/AllItems.aspx?csf=1&amp;web=1&amp;e=cGzGsn&amp;CID=0938079b%2Da54f%2D4bd9%2D87f8%2Dd3e6e4384a93&amp;FolderCTID=0x012000DD2A3CF840388E4F886384B9A5696C8E&amp;id=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FIT%20Budget%20Requests%2F2026%20Requests" id="2422">
-        <title>UVMHN IT Shared Services - Documents - 2026 Requests - All Documents</title>
-      </bookmark>
-      <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/HNPMO/_layouts/15/Doc.aspx?sourcedoc=%7BBFAF2D72-E98D-4E29-8BE8-48A897055D05%7D&amp;file=IT%20PMO%20PM%20Project%20Plan%20Lite%20Template%20.xlsx&amp;action=default&amp;mobileredirect=true" id="2445">
-        <title>IT PMO PM Project Plan Lite Template .xlsx</title>
-      </bookmark>
-    </folder>
-    <folder id="2446">
-      <title>Nova Notes</title>
-      <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/EpicUpgradesMajorEvents-EpicFallUpgradevMay25-11925/_layouts/15/Doc.aspx?sourcedoc=%7B79601DBA-8BC3-41B3-ABE7-A155976244C4%7D&amp;file=DCI%20guide%20to%20Nova%20.docx&amp;action=default&amp;mobileredirect=true" id="2447">
-        <title>DCI guide to Nova .docx</title>
-      </bookmark>
-    </folder>
-  </folder>
   <folder id="770">
     <title>Handouts</title>
     <folder id="820">
@@ -6785,5 +6329,467 @@
       <title>UVMMC Neurology Hub - Home</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="769">
+  <title>Informatics</title>
+  <folder id="815">
+    <title>NI</title>
+    <bookmark href="https://access.epic.com/Citrix/XenApp7-VeronaWeb/" id="823">
+      <title>Epic Foundation Hosted</title>
+    </bookmark>
+    <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/dmn_demand_list.do%3Fsysparm_query%3DstateNOT%2520IN9%2C5%2C10%2C7%5Estage%3Ddemand%26sysparm_view%3Dundefined" id="824">
+      <title>Demand List | UVMHN | ServiceNow</title>
+    </bookmark>
+    <bookmark href="https://uvmhealth.service-now.com/now/platform-analytics-workspace/dashboards/params/edit/false/sys-id/9cb7b7f07907e90c8f5ce2a32dd0f986" id="825">
+      <title>SNOW Summary | Platform Analytics | ServiceNow</title>
+    </bookmark>
+    <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/%24vtb.do" id="826">
+      <title>Available Boards | UVMHN | ServiceNow</title>
+    </bookmark>
+    <bookmark href="https://fahc-my.sharepoint.com/my?id=%2Fpersonal%2Fdeepak_gupta_uvmhealth_org%2FDocuments%2FNeurology%20Informatics&amp;FolderCTID=0x0120007BD5FE83DBE14F44B786F0F20EAE1074" id="827">
+      <title>Neurology Informatics - OneDrive</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!240!2956273" id="828">
+      <title>Galaxy - CLN160 Physician Build - Advanced Training Companion</title>
+    </bookmark>
+    <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdeepak_gupta_uvmhealth_org%2FDocuments%2FNeurology%20Informatics&amp;FolderCTID=0x0120007BD5FE83DBE14F44B786F0F20EAE1074&amp;view=0" id="829">
+      <title>Neurology Informatics - OneDrive</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicProviderSmartUsers" id="830">
+      <title>Epic Provider SmartUsers - Home</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:o:/t/EpicClinicalTeam/EiCk6_HzEfhHoWawab0P3h0BZWQXPN_a2YGqmyfbT9_ELQ?isSPOFile=1&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yNDAyMDExOTMwNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9" id="831">
+      <title>Epic Clinical Team Notebook</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,2956367&amp;from=Galaxy-Redirect" id="832">
+      <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,2956357&amp;from=Galaxy-Redirect" id="934">
+      <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
+    </bookmark>
+  </folder>
+  <folder id="816">
+    <title>Epic</title>
+    <folder id="2508">
+      <title>Courses</title>
+      <folder id="833">
+        <title>CLN145 Builder Bites</title>
+        <bookmark href="https://welearning.epic.com/Details?CSN=557751" id="893">
+          <title>Builder Bites: SmartLinks - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=557750" id="894">
+          <title>Builder Bites: SmartPhrases - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=557752" id="895">
+          <title>Builder Bites: SmartLists - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=558278" id="896">
+          <title>Builder Bites: SmartTexts - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=557597" id="897">
+          <title>Builder Bites: Overview of Epic Data Structure - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=679985" id="898">
+          <title>Builder Bites: Dynamic Documentation - weLearning</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100088849&amp;from=Galaxy-Redirect" id="2504">
+          <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
+        </bookmark>
+      </folder>
+      <folder id="834">
+        <title>CLN155 Builder Bites</title>
+        <bookmark href="https://welearning.epic.com/Details?CSN=558281" id="899">
+          <title>Builder Bites: BestPractice Advisories - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=583420" id="900">
+          <title>Builder Bites: System Preference Lists - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=558326" id="901">
+          <title>Builder Bites: SmartSets - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=559714" id="902">
+          <title>Builder Bites: Order Sets - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=582472" id="903">
+          <title>Builder Bites: Dynamic SmartSets - weLearning</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100243363&amp;from=Galaxy-Redirect" id="2505">
+          <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
+        </bookmark>
+      </folder>
+      <folder id="835">
+        <title>CLN165 Builder Bites</title>
+        <bookmark href="https://welearning.epic.com/Details?CSN=680522" id="904">
+          <title>Builder Bites: Flowsheet - Basics - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=680527" id="905">
+          <title>Builder Bites: Flowsheet - Advanced - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=566608" id="906">
+          <title>Builder Bites: Review Flowsheets - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=576257" id="907">
+          <title>Builder Bites: Synopsis - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=557753" id="908">
+          <title>Builder Bites: SmartBlock SmartForms - weLearning</title>
+        </bookmark>
+        <bookmark href="https://welearning.epic.com/Details?CSN=558283" id="909">
+          <title>Builder Bites: Procedure SmartForms - weLearning</title>
+        </bookmark>
+        <bookmark href="https://galaxy.epic.com/?#Browse/page=1!68!240!100245627&amp;from=Galaxy-Redirect" id="2506">
+          <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
+        </bookmark>
+      </folder>
+      <folder id="836">
+        <title>Epic Courses</title>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-50709-XLOCSN-653335-XVE-1253-EXACT-0-CERTCSN-653337&amp;ApplicationID=2" id="910">
+          <title>Physician Builder: Analytics</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-50690-XLOCSN-653889-XVE-1253-EXACT-0-CERTCSN-653891&amp;ApplicationID=2" id="911">
+          <title>Clinical Content Builder</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-41335-XLOCSN-653607-XVE-1253-EXACT-0-CERTCSN-653609&amp;ApplicationID=2" id="912">
+          <title>Patient-Entered Data</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;VersionID=1253&amp;TrackID=XLOID-109908-XLOCSN-678383-XVE-1253-EXACT-0-CERTCSN-678764" id="913">
+          <title>Cosmos for Data Scientists</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;VersionID=1253&amp;TrackID=XLOID-81177-XLOCSN-663234-XVE-1253-EXACT-0-CERTCSN-663236" id="914">
+          <title>Cosmos Data Model for Data Architects</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;TrackID=XLOID-47779-XLOCSN-653976-XVE-1253-EXACT-0-CERTCSN-653978&amp;ApplicationID=2" id="915">
+          <title>Epic for the Clinical Informaticist</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;TrackID=XLOID-54789-XLOCSN-660656-XVE-1253-EXACT-0-CERTCSN-660658" id="1015">
+          <title>Cosmos Super User Badge</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;TrackID=XLOID-109908-XLOCSN-678383-XVE-1253-EXACT-0-CERTCSN-678764" id="1016">
+          <title>Cosmos for Data Scientists</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;RoleID=14&amp;TrackID=XLOID-75603-XLOCSN-663169-XVE-1253-EXACT-0-CERTCSN-651346" id="1017">
+          <title>Cogito for the Physician Builder</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;ApplicationID=150&amp;TrackID=XLOID-76499-XLOCSN-660621-XVE-1253-EXACT-0-CERTCSN-660623" id="1027">
+          <title>Cosmos Researcher User Badge</title>
+        </bookmark>
+      </folder>
+      <folder id="837">
+        <title>Epic Training Status</title>
+        <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-54789-XLOCSN-660656-XVE-1253-EXACT-0-CERTCSN-660658&amp;xveId=1253&amp;locationId=1&amp;goal=Badge" id="916">
+          <title>Cosmos Super User Badge</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-109908-XLOCSN-678383-XVE-1253-EXACT-0-CERTCSN-678764&amp;xveId=1253&amp;locationId=1&amp;goal=Certification" id="917">
+          <title>Cosmos for Data Scientists</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-81177-XLOCSN-663234-XVE-1253-EXACT-0-CERTCSN-663236&amp;xveId=1253&amp;locationId=1&amp;goal=Certification" id="918">
+          <title>Cosmos Data Model for Data Architects</title>
+        </bookmark>
+        <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-50709-XLOCSN-560028-XVE-1249-EXACT-0-CERTCSN-560030&amp;xveId=1249&amp;locationId=1&amp;goal=Certification" id="919">
+          <title>Physician Builder Analytics</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="2507">
+      <title>Webinars</title>
+      <bookmark href="https://userweb.epic.com/Webinar/View/7071/Physician-Builder-Spotlight-37-Using-Human-Factors-to-Drive/" id="996">
+        <title>PB Spotlight #37: Think like a User: Considering Human Factors to Drive Intelligent Build</title>
+      </bookmark>
+      <bookmark href="https://userweb.epic.com/Webinar/View/5233/Physician-Builder-Spotlight-Webinar-17-One-Form-to-Rule-Them/" id="995">
+        <title>Physician Builder Spotlight Webinar #17: One Form to Rule Them All with Olutoyin Fayemi</title>
+      </bookmark>
+      <bookmark href="https://userweb.epic.com/Webinar/View/4055" id="994">
+        <title>Physician Builder Spotlight: Smartform and Notewriter Build with Chris Sallee</title>
+      </bookmark>
+      <bookmark href="https://userweb.epic.com/Webinar/View/4965/Physician-Builder-Spotlight-Smartforms-to-Allow-Easy-Consis/" id="939">
+        <title>Physician Builder Spotlight: Smartforms to Allow Easy &amp; Consistent Documentation with Todd Richwine</title>
+      </bookmark>
+    </folder>
+    <folder id="2509">
+      <title>Userweb</title>
+      <bookmark href="https://userweb.epic.com/Thread/93830/Video-capture-in-Haiku/?repliesSince=2021-12-15T11%3a36%3a27&amp;reply=542587" id="991">
+        <title>Video capture in Haiku</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://cosmos.epichosted.com/" id="1030">
+      <title>Epic Cosmos</title>
+    </bookmark>
+    <bookmark href="https://epictogetherny.org/Docs/EpicTogether_Glossary.pdf" id="838">
+      <title>Glossoary of Epic Terms</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1240&amp;ViewID=train-tracks&amp;RoleID=11&amp;TrackID=XLOID-47779-XLOCSN-354144-XVE-1240-EXACT-0-CERTCSN-354146" id="936">
+      <title>Course Catalog</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!600!100020447" id="937">
+      <title>Galaxy - Physician Newsletter</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!490!100050345&amp;from=Galaxy-Redirect" id="938">
+      <title>Galaxy - High-Impact Tasks for Physician Builders</title>
+    </bookmark>
+    <bookmark href="https://comlib.epic.com/" id="964">
+      <title>Community Library</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/" id="965">
+      <title>Training Home</title>
+    </bookmark>
+    <bookmark href="https://comlib.epic.com/#?query=&amp;customers=&amp;tags=&amp;type=All&amp;pagesize=100&amp;pageindex=0&amp;id=1477302131" id="976">
+      <title>Community Library -</title>
+    </bookmark>
+    <bookmark href="https://userweb.epic.com/" id="979">
+      <title>Epic UserWeb</title>
+    </bookmark>
+    <bookmark href="https://www.ehrn.org/" id="993">
+      <title>Epic Health Research Network</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!600!100020447&amp;rank=1&amp;queryid=122900176&amp;docid=115432" id="1006">
+      <title>Galaxy - Physician Newsletter</title>
+    </bookmark>
+    <bookmark href="https://userweb.epic.com/Topic/PhysicianBuilder" id="1019">
+      <title>Physician Builder</title>
+    </bookmark>
+    <bookmark href="https://welearning.epic.com/Browse" id="1026">
+      <title>Browse Lessons - weLearning</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicCON/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEpicCON%2FShared%20Documents%2FTraining%2FTraining%20Wheels%2FCupid%2Fzzz%20Do%20Not%20Use%2FTraining%20Planning%2FTraining%20Wheels%20How-To%2FPartner%20with%20Specialty%20Champions%20on%20Curriculum.pdf&amp;parent=%2Fteams%2FEpicCON%2FShared%20Documents%2FTraining%2FTraining%20Wheels%2FCupid%2Fzzz%20Do%20Not%20Use%2FTraining%20Planning%2FTraining%20Wheels%20How-To" id="2513">
+      <title>https://fahc.sharepoint.com/teams/EpicCON/Shared Documents/Forms/AllItems.aspx?id=%2Fteams%2FEpicCON%2FShared Documents%2FTraining%2FTraining Wheels%2FCupid%2Fzzz Do Not Use%2FTraining Planning%2FTraining Wheels How-To%2FPartner with Specialty Champions on Curriculum%2Epdf&amp;parent=%2Fteams%2FEpicCON%2FShared Documents%2FTraining%2FTraining Wheels%2FCupid%2Fzzz Do Not Use%2FTraining Planning%2FTraining Wheels How-To</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:p:/r/teams/SprintOptimizationTeam/_layouts/15/Doc.aspx?sourcedoc=%7B50916995-2EAD-459D-9E89-23001029EF6C%7D&amp;file=FY%202021%20FPC.pptx&amp;action=edit&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="2514">
+      <title>FY 2021 FPC.pptx</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!280!4049505" id="2515">
+      <title>Galaxy - Power User Capstone Submission</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/Search/GetFile?url=1%2168%21100%21100031398&amp;rank=1&amp;queryid=65120873&amp;docid=120339" id="2516">
+      <title>Learn from the Best - Physician Builder Programs.pdf</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=8400!68!230!3670293&amp;from=Galaxy-Redirect" id="2517">
+      <title>Galaxy - Physician Power User Training (All Chapters)</title>
+    </bookmark>
+    <bookmark href="https://www.datasciencecentral.com/profiles/blogs/mumps-the-most-important-database-you-probably-never-heard-of" id="2518">
+      <title>MUMPS – The Most Important Database You (Probably) Never Heard Of - Data Science Central</title>
+    </bookmark>
+    <bookmark href="https://www.healthcareitnews.com/news/what-does-intersystems-cach%C3%A9-have-do-epic" id="2519">
+      <title>What does InterSystems&amp;#39; Caché have to do with Epic&amp;#39;s EHR? | Healthcare IT News</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-51887-XLOCSN-362543-XVE-1240-EXACT-0-CERTCSN-362545&amp;xveId=1240&amp;forceServerLoad=True" id="2520">
+      <title>Physician Power User Training Track Progress</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!642!100121785&amp;from=Galaxy-Redirect" id="2521">
+      <title>Galaxy - CLN150v Virtual Class Documentation Collection</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared%20Documents%2FPlanning%2FEpic%20Optimization%20Sprint%20FY21%20Executive%20Summary.pdf&amp;parent=%2Fteams%2FSprintOptimizationTeam%2FShared%20Documents%2FPlanning" id="2522">
+      <title>https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared Documents%2FPlanning%2FEpic Optimization Sprint FY21 Executive Summary%2Epdf&amp;parent=%2Fteams%2FSprintOptimizationTeam%2FShared Documents%2FPlanning</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared%20Documents%2FSprint%20Resources%2FNeurology&amp;p=true" id="2523">
+      <title>https://fahc.sharepoint.com/teams/SprintOptimizationTeam/Shared Documents/Forms/AllItems.aspx?id=%2Fteams%2FSprintOptimizationTeam%2FShared Documents%2FSprint Resources%2FNeurology&amp;p=true</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:p:/r/teams/SprintOptimizationTeam/_layouts/15/Doc.aspx?sourcedoc=%7B5E9FF09E-541B-43F8-BD59-111FF740971B%7D&amp;file=CollaborativeReportUVM%20Data%20Review%20Presentation%202019.pptx&amp;action=edit&amp;mobileredirect=true" id="2524">
+      <title>CollaborativeReportUVM Data Review Presentation 2019.pptx</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-50522-XLOCSN-560116-XVE-1249-EXACT-0-CERTCSN-560118&amp;xveId=1249&amp;locationId=1&amp;goal=Certification" id="2525">
+      <title>PB Core Training Track Progress</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/CourseCatalog/#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;RoleID=14&amp;TrackID=XLOID-50522-XLOCSN-653004-XVE-1253-EXACT-0-CERTCSN-653006&amp;ApplicationID=2" id="2526">
+      <title>Physician Builder: Core</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100088849&amp;rank=1&amp;queryid=122896777&amp;docid=136224" id="2527">
+      <title>Galaxy - CLN145 Physician Builder: Notecraft Training Companion</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100243363&amp;rank=1&amp;queryid=122896463&amp;docid=162818" id="2528">
+      <title>Galaxy - CLN155 Physician Builder: Orders and Clinical Decision Support Training Companion</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627&amp;rank=2&amp;queryid=122896429&amp;docid=163161" id="2529">
+      <title>Galaxy - CLN165 Physician Builder: Discrete Documentation Training Companion</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245881&amp;rank=1&amp;queryid=122780453&amp;docid=163219" id="2530">
+      <title>Galaxy - CLN175 Physician Builder: Workspace Configuration and Review Tools Training Companion</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/CourseCatalog/#/?LocationID=1&amp;VersionID=1253&amp;ViewID=train-tracks&amp;RoleID=14&amp;TrackID=XLOID-50709-XLOCSN-653335-XVE-1253-EXACT-0-CERTCSN-653337&amp;ApplicationID=2" id="2531">
+      <title>Physician Builder: Analytics</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100247840&amp;rank=1&amp;queryid=122897322&amp;docid=163462" id="2532">
+      <title>Galaxy - CLN176 Physician Builder Analytics Training Companion</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!200!100097842&amp;from=Galaxy-Redirect" id="2533">
+      <title>Galaxy - SmartUser FAQ</title>
+    </bookmark>
+    <bookmark href="https://welearning.epic.com/Browse?sort=NumViews" id="2534">
+      <title>Most Viewed eLearning</title>
+    </bookmark>
+    <bookmark href="https://welearning.epic.com/Details?CSN=582469" id="2535">
+      <title>Builder Bites: Navigator Build - Basics - weLearning</title>
+    </bookmark>
+    <bookmark href="https://welearning.epic.com/Details?CSN=234929" id="2536">
+      <title>Navigating Clinical Administration for Clinical Applications - weLearning</title>
+    </bookmark>
+    <bookmark href="https://training.epic.com/TrackProgress/TrackSingle?trainTrackId=XLOID-50522-XLOCSN-358568-XVE-1240-EXACT-0-CERTCSN-358570&amp;xveId=1240&amp;locationId=1&amp;goal=Certification" id="2537">
+      <title>PB Core EpicU - Training Track Progress</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100088990&amp;from=Galaxy-Redirect" id="2538">
+      <title>Galaxy - Physician Training - 2024 Changes</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100247840&amp;from=Galaxy-Redirect" id="2539">
+      <title>Galaxy - CLN176 Physician Builder Analytics Training Companion</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!600!100020447&amp;rank=1&amp;queryid=122830918&amp;docid=115432" id="2540">
+      <title>Galaxy - Physician Newsletter</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicTrainingSupport/_layouts/15/Doc.aspx?sourcedoc=%7B4b3f51f7-07cf-45fa-a6a3-63c528367629%7D&amp;action=view&amp;wd=target%2528Power%2520Point%2520Template%257C52acffd2-3bb0-4af8-b92e-7eff3c77c2de%252F%2529" id="2541">
+      <title>Speciality Champion Meetings.one</title>
+    </bookmark>
+  </folder>
+  <folder id="817">
+    <title>NTW</title>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/TechnologyWorkgroup/_layouts/15/guestaccess.aspx?e=Oc3hbV&amp;share=EfT89Hvbq8hJnT_-hER7nDwBZYxTGmIiPBKmsUDsFeOiJQ" id="843">
+      <title>Technology Workgroup Charter.docx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/TechnologyWorkgroup/_layouts/15/guestaccess.aspx?e=Dd0tI1&amp;share=EZDX7SZRVtFFsCZ8ojnmSpsB3AamXFpkolAUvOoBfRNA-Q" id="844">
+      <title>technology workgroup handout.docx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/TechnologyWorkgroup/_layouts/15/listforms.aspx?cid=YjQ2ZmM1MWQtNjYyMi00NTA0LTg1Y2UtYmU0MTg4OGNiZWRk&amp;nav=ZDM4N2U0ZDgtNzEyNi00MTA0LWE1ZjgtYWI0MGZiYTExMzg5" id="845">
+      <title>CI Team&apos;s TW Request Form</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/TechnologyWorkgroup/Lists/Technology%20Workgroup%20Intake/AllItems.aspx?viewid=128bdfcb-5551-43c0-8c99-6b071ce94f47&amp;env=WebViewList&amp;CT=1768409410550&amp;OR=OWA-NT-Mail&amp;CID=fea808ba-e6ec-939e-7daf-2aece22220ba" id="846">
+      <title>CI Team&apos;s NTW Dashboard</title>
+    </bookmark>
+    <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/listforms.aspx?cid=NjQyOTBkZDQtNzMxZS00OGUyLTgzY2ItNTFlMzc3MTVkM2M2&amp;nav=OTZjY2EwZGMtZjk0OS00MWJiLThjNDItM2NjNzhmOTkzMDM5" id="847">
+      <title>Neurology&apos;s TW Request Form</title>
+    </bookmark>
+    <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/Lists/Neurology%20Technology%20Intake%20Request%20Form/AllItems.aspx?viewid=5eb508dc-20ba-474f-b325-d4636706e77c&amp;env=WebViewList" id="848">
+      <title>Neurology&apos;s NTW Dashboard</title>
+    </bookmark>
+    <bookmark href="https://fahc-my.sharepoint.com/personal/deepak_gupta_uvmhealth_org/_layouts/15/Doc.aspx?sourcedoc={3f70c89a-56c6-456f-b47d-b741bf3f83cd}&amp;action=edit&amp;wd=target%28Members.one%7C25d4fc72-4940-49c0-bc82-49547f36d7ba%2FMembers%7Caa6abd9f-0752-4083-b323-f8e8e56170db%2F%29&amp;wdorigin=NavigationUrl" id="2377">
+      <title>Neurology Technology Workgroup OneNote</title>
+    </bookmark>
+    <bookmark href="https://fahc-my.sharepoint.com/:x:/g/personal/deepak_gupta_uvmhealth_org/IQDwjxVo0zgEQLdeR5-vdkLfAc-dnubNiu6Wzc2VYAhFqqI?e=7Fsoep&amp;ct=1788276505760" id="2460">
+      <title>Neurology Backlog 2025 Demands.xlsx</title>
+    </bookmark>
+    <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/dmn_demand_list.do%3Fsysparm_query%3Dassigned_to%253D54787111dbcb324078fadbbb5e961965%255EORassigned_to%253Dc769443cdbac0340dd1a591e5e96190b%255Estate!%253D9%255Estate!%253D10%255Estate!%253D7%255Esafe_featureISEMPTY%255Esafe_epicISEMPTY%255Esafe_storyISEMPTY%255Esys_tags.11d18a4c2b1c7210583bf6bfc891bfcf%253D11d18a4c2b1c7210583bf6bfc891bfcf%26sysparm_first_row%3D1%26sysparm_view%3D" id="849">
+      <title>Demands | UVMHN | ServiceNow | UVMHN | ServiceNow</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/t/UVMHNITSharedServices/IQAmzasMbzBZQo48R-e2hQ7oAdXdpFfdSb8OOaqjl2qznkc?e=VtGgV9&amp;CID=790c2032-6e7d-f146-9af2-13a508614bf3&amp;SI=NonSentItems" id="2375">
+      <title>Prioritized Features Oberon 07072026.xlsx</title>
+    </bookmark>
+    <bookmark href="https://uvmhealth.service-now.com/sp?id=esc_sc_category&amp;sys_id=95fc11615f1211001c9b2572f2b477c6&amp;catalog_id=e0d08b13c3330100c8b837659bba8fb4&amp;spa=1" id="850">
+      <title>Catalogs - UVM Health Service Portal</title>
+    </bookmark>
+  </folder>
+  <folder id="818">
+    <title>CI Team</title>
+    <bookmark href="https://uvmhealth.service-now.com/now/nav/ui/classic/params/target/%24vtb.do%3Fsysparm_board%3D158ab3f31b27e15042b8dac4bd4bcb81?ct=1791559394980" id="2511">
+      <title>VTB: IT Clinical Informatics SAFe stories by State | UVMHN | ServiceNow</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicProviderSmartUsers/_layouts/15/Doc.aspx?sourcedoc={b3867cfd-2ae3-4eed-a0ea-2fe4e64ea1af}&amp;action=edit&amp;wd=target%28Agendas.one%7Ce050f99b-4491-4e2e-86e3-b0e866f67482%2F2026%7Cd0145977-4ad1-4031-b672-68ffd390d69c%2F%29&amp;wdorigin=NavigationUrl" id="2395">
+      <title>Epic Provider SmartUsers Notebook</title>
+    </bookmark>
+    <bookmark href="https://galaxy.epic.com/#Browse/page=1!68!240!100245627,100245629&amp;from=Galaxy-Redirect" id="851">
+      <title>CLN165 Physician Builder</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/UVMHN-Departments/Information-Technology/Clinical-Informatics" id="852">
+      <title>Clinical Informatics - Home</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FEpicClinicalTeam%2FShared%20Documents%2FDepartment%20Clinical%20Informaticist%2FDepartment%20Specific%20Documents%2FNeurology&amp;viewid=c91a488f-f7e0-4858-a796-b033597ab4c3" id="853">
+      <title>UVMHNCT Team Documents - Neurology</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7B5D03203F-4DDD-40E3-B7E1-98F38A3B0222%7D&amp;file=FY26%20OKRs%20and%20Goals.xlsx&amp;nav=MTVfezhGODI4OTdCLTIyMTEtNDZEMC1CQUM4LTI3RENBNTU2NEMzM30&amp;action=default&amp;mobileredirect=true" id="854">
+      <title>FY26 OKRs and Goals.xlsx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7Ba68804d4-9e4d-4d04-8b8e-3eb8a539dead%7D&amp;action=edit&amp;wd=target%2528Responsibilities.one%257Cb5a2cc01-1cf8-4561-bc1f-9d6059cf7257%252FDCI%2520Roster%257C5a956763-ebd9-420b-bbdf-82195fa1fa53%252F%2529&amp;wdorigin=NavigationUrl" id="855">
+      <title>Department Clinical Informaticist</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7Bf1eba420-11f3-47f8-a166-b069bd0fde1d%7D&amp;action=edit&amp;wd=target%2528Team%2520members%2520and%2520orientation.one%257C3a5bd723-8a86-430b-8dd5-2190ed639ada%252FLINKS%257C01792bf8-962c-48de-8219-ff399e440fe5%252F%2529&amp;wdorigin=NavigationUrl" id="856">
+      <title>Epic Clinical Team Notebook</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicClinicalTeam-NetworkMDCI/ESTqld-mi5tEvG0KC3sh3G8B1TV_PE8CxJe8XVHIZHADow?e=Q0K9sV" id="857">
+      <title>Informatics Roster to Post.xlsx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:o:/r/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?sourcedoc=%7Bf1eba420-11f3-47f8-a166-b069bd0fde1d%7D&amp;action=edit&amp;CID=406f5ca1-a02c-6000-bc4f-ff02cd6e368c&amp;cidOR=SPO" id="858">
+      <title>CI Team Meetings Agenda</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/epicclinicalteam?CT=1735847317246&amp;OR=OWA-NT-Mail&amp;CID=524b6c6d-7c43-0342-0264-a2a2229e6470" id="859">
+      <title>UVMHN Clinical Informatics Team - Home</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicClinicalTeam/EXLa8xcpzTJDgzJ8gj0BH1kBKlTQm0jEuR6YQtKmdu3nJQ?CID=fa0a458f-ad4d-fb85-8b29-d17cc08ac63b" id="860">
+      <title>BRP DCI partnerships.xlsx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/sites/uvmhnpolicy/SitePages/Home.aspx" id="940">
+      <title>UVM Health Network Policies - Home</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicClinicalTeam/Shared%20Documents/Forms/AllItems.aspx" id="941">
+      <title>UVMHN Clinical Informatics Team - Documents - All Documents</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/DMO/SitePages/DMO-Documents.aspx" id="1005">
+      <title>Helpful Documents</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicTrainingSupport/_layouts/15/Doc.aspx?sourcedoc=%7B4b3f51f7-07cf-45fa-a6a3-63c528367629%7D&amp;action=view&amp;wd=target%28Power%20Point%20Template%7C52acffd2-3bb0-4af8-b92e-7eff3c77c2de%2F%29" id="1003">
+      <title>Speciality Champion Meetings.one</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/EpicClinicalTeam/_layouts/15/Doc.aspx?action=edit&amp;sourcedoc=%7B653AAF1E-9DAF-40F3-972F-B54A51A00939%7D" id="1000">
+      <title>Roster with photos.docx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicPSC/EaGv_l315kBErINMTp0GUnwB66vZuFKSumEkrPt01hG1HQ?e=Dzyjyo&amp;wdLOR=c12EECD8C-E67D-0C4D-92A1-081463DD34ED" id="992">
+      <title>Specialty Champions roster full.xlsx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicProject/SitePages/Epic-Thrive-Training-Program.aspx" id="963">
+      <title>Thrive Program</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/EpicPSC/Shared%20Documents/Forms/AllItems.aspx?ga=1&amp;id=%2Fteams%2FEpicPSC%2FShared%20Documents%2FResources%2FUVMHN%20SC%20Resources.pdf&amp;parent=%2Fteams%2FEpicPSC%2FShared%20Documents%2FResources" id="839">
+      <title>Epic Provider Specialty Champions - UVMHN SC Resources.pdf - All Documents</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:p:/r/teams/SprintOptimizationTeam/_layouts/15/Doc.aspx?sourcedoc=%7BFE981AA8-42BA-49EA-9615-9BF2C030623F%7D&amp;file=UVMHN%20CI%20slides.pptx&amp;action=edit&amp;mobileredirect=true" id="840">
+      <title>UVMHN CI slides.pptx</title>
+    </bookmark>
+  </folder>
+  <folder id="819">
+    <title>Consult Design Intake</title>
+    <bookmark href="https://fahc-my.sharepoint.com/:p:/g/personal/katelin_morrissette_uvmhealth_org/IQDTnqfRKzDsQKuCsUvkGReqAQjr5SKRN7x8YAAZZ4QPqCo?e=Ju0rIQ" id="861">
+      <title>Order Template Options.pptx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/t/EpicClinicalTeam/IQABpoYQe_E8Q7UPuxN0kZGhAdbNenlMIrsIwFuGXBdPems?e=BaauTF" id="862">
+      <title>Call schedule source June 2026.xlsx</title>
+    </bookmark>
+    <bookmark href="https://forms.office.com/pages/responsepage.aspx?id=N5_AX1rck0iVwK47te8Y38Ax9QHV1rJDuzByFFFkqpdUNkZMUVZHVlRJRURZWkJGRFhVUjhLSlBWNy4u&amp;route=shorturl" id="863">
+      <title>Consult design intake</title>
+    </bookmark>
+  </folder>
+  <folder id="2372">
+    <title>SharePoint</title>
+    <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/UVMMC-NeuroHub/_layouts/15/Doc.aspx?sourcedoc=%7BB1307513-D814-4301-92BF-00545ADB04FD%7D&amp;file=SecurityModel.xlsx&amp;action=default&amp;mobileredirect=true" id="2373">
+      <title>SecurityModel.xlsx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/UVMMC-NeuroHub/?or=EXCEL-WEB.BODY.NT&amp;ct=1783449848322" id="2374">
+      <title>UVMMC Neurology Hub - Home</title>
+    </bookmark>
+  </folder>
+  <folder id="2419">
+    <title>Links</title>
+    <bookmark href="https://fahc.sharepoint.com/teams/UVMHNITSharedServices/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FGeneral%20IT%20Info%2FIT%20Org%20Aug%202026%2Epdf&amp;parent=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FGeneral%20IT%20Info" id="2444">
+      <title>IT Org Aug 2026</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/AlvarezMarsalAMTeamsChannel/_layouts/15/Doc.aspx?sourcedoc=%7B795B287A-1804-4CB2-AB43-14FA5F25FB7C%7D&amp;file=DCI%20Build%20Review%20Tracker.docx&amp;action=default&amp;mobileredirect=true" id="2420">
+      <title>DCI Build Review Tracker.docx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/UVMHNITSharedServices/_layouts/15/Doc.aspx?sourcedoc=%7B16C60C12-9399-486E-AF3C-D5B34B73B308%7D&amp;file=2025%20Business%20Owner%20Questionnaire%20DO%20NOT%20EDIT%20-%20Copy.docx&amp;action=default&amp;mobileredirect=true&amp;wdOrigin=LOOP-WEB.PREVIEW.NT&amp;wduihid=b1a50ddc-342a-4215-acab-98b848846f4c&amp;web=1&amp;CID=757b36b6-9356-ab1a-5cfe-7bb7e4fd3855" id="2421">
+      <title>2026 Business Owner Questionnaire DO NOT EDIT - Copy.docx</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/teams/UVMHNITSharedServices/Shared%20Documents/Forms/AllItems.aspx?csf=1&amp;web=1&amp;e=cGzGsn&amp;CID=0938079b%2Da54f%2D4bd9%2D87f8%2Dd3e6e4384a93&amp;FolderCTID=0x012000DD2A3CF840388E4F886384B9A5696C8E&amp;id=%2Fteams%2FUVMHNITSharedServices%2FShared%20Documents%2FGeneral%2FIT%20Budget%20Requests%2F2026%20Requests" id="2422">
+      <title>UVMHN IT Shared Services - Documents - 2026 Requests - All Documents</title>
+    </bookmark>
+    <bookmark href="https://fahc.sharepoint.com/:x:/r/teams/HNPMO/_layouts/15/Doc.aspx?sourcedoc=%7BBFAF2D72-E98D-4E29-8BE8-48A897055D05%7D&amp;file=IT%20PMO%20PM%20Project%20Plan%20Lite%20Template%20.xlsx&amp;action=default&amp;mobileredirect=true" id="2445">
+      <title>IT PMO PM Project Plan Lite Template .xlsx</title>
+    </bookmark>
+  </folder>
+  <folder id="2446">
+    <title>Nova Notes</title>
+    <bookmark href="https://fahc.sharepoint.com/:w:/r/teams/EpicUpgradesMajorEvents-EpicFallUpgradevMay25-11925/_layouts/15/Doc.aspx?sourcedoc=%7B79601DBA-8BC3-41B3-ABE7-A155976244C4%7D&amp;file=DCI%20guide%20to%20Nova%20.docx&amp;action=default&amp;mobileredirect=true" id="2447">
+      <title>DCI guide to Nova .docx</title>
+    </bookmark>
+  </folder>
+  <folder id="2543">
+    <title>Gold Stars</title>
+  </folder>
+  <bookmark href="https://nova.epic.com/GoldStars.aspx?CstID=639#comp=0&amp;new=0&amp;ins=0&amp;na=1&amp;onlyqw=0&amp;gc=0&amp;upd=0&amp;pre=0&amp;iown=0&amp;apps=&amp;stats=&amp;kw=&amp;tier=&amp;specs=&amp;tas=/browse/focus=1/fid=917956&amp;pps=0" id="2544">
+    <title>Gold Stars</title>
+  </bookmark>
 </folder>
 </xbel>
