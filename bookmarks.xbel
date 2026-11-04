@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2544: for Floccus bookmark sync browser extension -->
+<!--- highestId :2545: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -6790,6 +6790,9 @@
   </folder>
   <bookmark href="https://nova.epic.com/GoldStars.aspx?CstID=639#comp=0&amp;new=0&amp;ins=0&amp;na=1&amp;onlyqw=0&amp;gc=0&amp;upd=0&amp;pre=0&amp;iown=0&amp;apps=&amp;stats=&amp;kw=&amp;tier=&amp;specs=&amp;tas=/browse/focus=1/fid=917956&amp;pps=0" id="2544">
     <title>Gold Stars</title>
+  </bookmark>
+  <bookmark href="https://nova.epic.com/GoldStars.aspx?CstID=639#comp=0&amp;new=0&amp;ins=0&amp;na=1&amp;onlyqw=0&amp;gc=0&amp;upd=0&amp;pre=0&amp;iown=0&amp;apps=&amp;stats=&amp;kw=&amp;tier=&amp;specs=&amp;tas=/browse/fid=917956&amp;pps=1" id="2545">
+    <title>Neurodiagnostics with Procedural Tools</title>
   </bookmark>
 </folder>
 </xbel>
