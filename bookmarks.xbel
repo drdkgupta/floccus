@@ -5,36 +5,6 @@
 
 <folder id="1">
   <title>Carey</title>
-  <folder id="8">
-    <title>2026-05 AI Essentials for Business</title>
-    <bookmark href="https://jhu.instructure.com/courses/134734" id="40">
-      <title>BU.520.710.31.SU26 AI Essentials for Business</title>
-    </bookmark>
-    <bookmark href="https://teams.microsoft.com/v2/" id="41">
-      <title>Chat | General | Microsoft Teams</title>
-    </bookmark>
-    <bookmark href="https://jhu.instructure.com/courses/134734/grades" id="2367">
-      <title>Grades for Deepak Gupta: BU.520.710.31.SU26 AI Essentials for Business</title>
-    </bookmark>
-    <bookmark href="https://drive.google.com/drive/folders/1CC9809FbQtgWEy9LqkMBGuFG9CvrPRNG" id="2365">
-      <title>2026-05 AI Essentials for Business - Google Drive</title>
-    </bookmark>
-    <bookmark href="https://github.com/Mooler0410/LLMsPracticalGuide" id="2396">
-      <title>GitHub - Mooler0410/LLMsPracticalGuide: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) · GitHub</title>
-    </bookmark>
-    <bookmark href="https://notebooklm.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534?utm_source=gemini_notebook&amp;utm_medium=referral" id="2378">
-      <title>01-AI Essentials for Business - NotebookLM</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=aBUniZHgCnE" id="2402">
-      <title>Understand AI in 14 minutes – with Anthropic&apos;s Chloe Lubinski [ARC 2026] - YouTube</title>
-    </bookmark>
-    <bookmark href="https://platform.openai.com/tokenizer" id="2388">
-      <title>Tokenizer - OpenAI API</title>
-    </bookmark>
-    <bookmark href="https://gemini.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534" id="42">
-      <title>Google Gemini</title>
-    </bookmark>
-  </folder>
   <folder id="9">
     <title>General</title>
     <bookmark href="https://carey.jhu.edu/student-life/student-resources/academic-calendar" id="43">
@@ -110,21 +80,6 @@
   <bookmark href="https://chat.ai.jh.edu/c/new?endpoint=AnthropicClaude&amp;model=claude-opus-4.5-cached" id="2403">
     <title>HopGPT</title>
   </bookmark>
-  <folder id="2470">
-    <title>2026-08 Machine Learning for Management</title>
-    <bookmark href="https://jhu.instructure.com/courses/132037" id="2471">
-      <title>BU.142.775.31.FA26 Machine Learning for Management</title>
-    </bookmark>
-    <bookmark href="https://gemini.google.com/notebook/9d16c27c-3c08-460e-8b4f-d970a70d81de" id="2490">
-      <title>Google Gemini</title>
-    </bookmark>
-    <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2479">
-      <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
-    </bookmark>
-    <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2488">
-      <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://m365.cloud.microsoft/chat?from=PortalHome&amp;redirfrom=userTypeCookie&amp;redirfrom=cosmicRingCookie" id="2486">
     <title>Microsoft Copilot</title>
   </bookmark>
@@ -139,6 +94,51 @@
   </bookmark>
   <folder id="2546">
     <title>Courses</title>
+    <folder id="8">
+      <title>01-2026-05 AI Essentials for Business</title>
+      <bookmark href="https://jhu.instructure.com/courses/134734" id="40">
+        <title>BU.520.710.31.SU26 AI Essentials for Business</title>
+      </bookmark>
+      <bookmark href="https://teams.microsoft.com/v2/" id="41">
+        <title>Chat | General | Microsoft Teams</title>
+      </bookmark>
+      <bookmark href="https://jhu.instructure.com/courses/134734/grades" id="2367">
+        <title>Grades for Deepak Gupta: BU.520.710.31.SU26 AI Essentials for Business</title>
+      </bookmark>
+      <bookmark href="https://drive.google.com/drive/folders/1CC9809FbQtgWEy9LqkMBGuFG9CvrPRNG" id="2365">
+        <title>2026-05 AI Essentials for Business - Google Drive</title>
+      </bookmark>
+      <bookmark href="https://github.com/Mooler0410/LLMsPracticalGuide" id="2396">
+        <title>GitHub - Mooler0410/LLMsPracticalGuide: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) · GitHub</title>
+      </bookmark>
+      <bookmark href="https://notebooklm.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534?utm_source=gemini_notebook&amp;utm_medium=referral" id="2378">
+        <title>01-AI Essentials for Business - NotebookLM</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=aBUniZHgCnE" id="2402">
+        <title>Understand AI in 14 minutes – with Anthropic&apos;s Chloe Lubinski [ARC 2026] - YouTube</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/tokenizer" id="2388">
+        <title>Tokenizer - OpenAI API</title>
+      </bookmark>
+      <bookmark href="https://gemini.google.com/notebook/3ad0d5d5-c81f-40f2-a4e6-c0f221f74534" id="42">
+        <title>Google Gemini</title>
+      </bookmark>
+    </folder>
+    <folder id="2470">
+      <title>02-2026-08 Machine Learning for Management</title>
+      <bookmark href="https://jhu.instructure.com/courses/132037" id="2471">
+        <title>BU.142.775.31.FA26 Machine Learning for Management</title>
+      </bookmark>
+      <bookmark href="https://gemini.google.com/notebook/9d16c27c-3c08-460e-8b4f-d970a70d81de" id="2490">
+        <title>Google Gemini</title>
+      </bookmark>
+      <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2479">
+        <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
+      </bookmark>
+      <bookmark href="https://livejohnshopkins-my.sharepoint.com/my?id=%2Fpersonal%2Fdgupta26%5Fjh%5Fedu%2FDocuments%2FFall%202026%20%2D%20ML%20Course%20%2D%20Team%2039%20Group%20Assignments&amp;viewid=5cb201d2%2D3503%2D415f%2Db5f9%2Dbdecf4c2a55c" id="2488">
+        <title>Fall 2026 - ML Course - Team 39 Group Assignments - OneDrive</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <folder id="2">
