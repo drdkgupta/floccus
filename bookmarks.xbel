@@ -62,36 +62,6 @@
       <title>Carey Syllabi - Documents - Carey Business School - Sample Syllabi - All Documents</title>
     </bookmark>
   </folder>
-  <folder id="11">
-    <title>2026-08 Statistics Waiver Exam</title>
-    <bookmark href="https://jhu.instructure.com/courses/125878" id="59">
-      <title>BU.510.001.01.SU26 Statistical Analysis Waiver Exam</title>
-    </bookmark>
-    <bookmark href="https://jhu.instructure.com/courses/13935" id="60">
-      <title>CO.BU.Quantitative_Business_Prep QuantitativeBusinessPrep</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://jhu.instructure.com/login/saml" id="2452">
-    <title>Canvas at JHU</title>
-  </bookmark>
-  <bookmark href="https://catalyst.library.jhu.edu/nde/home?vid=01JHU_INST:nde&amp;lang=en" id="2484">
-    <title>Catalyst</title>
-  </bookmark>
-  <bookmark href="https://chat.ai.jh.edu/c/new?endpoint=AnthropicClaude&amp;model=claude-opus-4.5-cached" id="2403">
-    <title>HopGPT</title>
-  </bookmark>
-  <bookmark href="https://m365.cloud.microsoft/chat?from=PortalHome&amp;redirfrom=userTypeCookie&amp;redirfrom=cosmicRingCookie" id="2486">
-    <title>Microsoft Copilot</title>
-  </bookmark>
-  <bookmark href="https://teams.cloud.microsoft/" id="2493">
-    <title>Chat | Standing Meeting: Team 39: Machine learning team | Microsoft Teams</title>
-  </bookmark>
-  <bookmark href="https://outlook.office.com/mail/?realm=jh.edu&amp;login_hint=dgupta26@jh.edu" id="2487">
-    <title>Mail - Deepak Gupta - JHU</title>
-  </bookmark>
-  <bookmark href="https://livejohnshopkins-my.sharepoint.com/my" id="2489">
-    <title>My files - OneDrive - JHU</title>
-  </bookmark>
   <folder id="2546">
     <title>Courses</title>
     <folder id="8">
@@ -140,6 +110,33 @@
       </bookmark>
     </folder>
   </folder>
+  <folder id="11">
+    <title>2026-08 Statistics Waiver Exam</title>
+    <bookmark href="https://jhu.instructure.com/courses/125878" id="59">
+      <title>BU.510.001.01.SU26 Statistical Analysis Waiver Exam</title>
+    </bookmark>
+    <bookmark href="https://jhu.instructure.com/courses/13935" id="60">
+      <title>CO.BU.Quantitative_Business_Prep QuantitativeBusinessPrep</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://jhu.instructure.com/login/saml" id="2452">
+    <title>Canvas at JHU</title>
+  </bookmark>
+  <bookmark href="https://catalyst.library.jhu.edu/nde/home?vid=01JHU_INST:nde&amp;lang=en" id="2484">
+    <title>Catalyst</title>
+  </bookmark>
+  <bookmark href="https://chat.ai.jh.edu/c/new?endpoint=AnthropicClaude&amp;model=claude-opus-4.5-cached" id="2403">
+    <title>HopGPT</title>
+  </bookmark>
+  <bookmark href="https://m365.cloud.microsoft/chat?from=PortalHome&amp;redirfrom=userTypeCookie&amp;redirfrom=cosmicRingCookie" id="2486">
+    <title>Microsoft Copilot</title>
+  </bookmark>
+  <bookmark href="https://outlook.office.com/mail/?realm=jh.edu&amp;login_hint=dgupta26@jh.edu" id="2487">
+    <title>Mail - Deepak Gupta - JHU</title>
+  </bookmark>
+  <bookmark href="https://livejohnshopkins-my.sharepoint.com/my" id="2489">
+    <title>My files - OneDrive - JHU</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Research</title>
