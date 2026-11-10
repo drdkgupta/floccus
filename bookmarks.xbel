@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2545: for Floccus bookmark sync browser extension -->
+<!--- highestId :2546: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -137,6 +137,9 @@
   <bookmark href="https://livejohnshopkins-my.sharepoint.com/my" id="2489">
     <title>My files - OneDrive - JHU</title>
   </bookmark>
+  <folder id="2546">
+    <title>Courses</title>
+  </folder>
 </folder>
 <folder id="2">
   <title>Research</title>
