@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2663: for Floccus bookmark sync browser extension -->
+<!--- highestId :2674: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Carey</title>
@@ -400,7 +400,7 @@
     <bookmark href="https://participant.wageworks.com/ClaimsAndPayments/index.aspx" id="151">
       <title>Claims &amp; Activity - HealthEquity WAGEWOPRKS</title>
     </bookmark>
-    <bookmark href="chrome://settings/passwords" id="2653">
+    <bookmark href="edge://settings/passwords" id="2664">
       <title>Passowrds</title>
     </bookmark>
     <bookmark href="https://training.epic.com/CourseCatalog#/?LocationID=1&amp;VersionID=1240&amp;ViewID=train-tracks" id="153">
@@ -535,7 +535,7 @@
     <bookmark href="https://theuniversityofvermontmedicalcenterinc.leavemgt.thehartford.com/secure/emp/Default.aspx" id="196">
       <title>The Hartford Self Service</title>
     </bookmark>
-    <bookmark href="chrome://settings/passwords?search=pass" id="2654">
+    <bookmark href="edge://settings/passwords?search=pass" id="2665">
       <title>Passwords</title>
     </bookmark>
     <bookmark href="https://informeddelivery.usps.com/box/pages/secure/DashboardAction_input.action?selectedDate=01%2F01%2F2021&amp;selectedZip11=05403445739" id="198">
@@ -607,16 +607,16 @@
     <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="85">
       <title>Gmail</title>
     </bookmark>
-    <bookmark href="chrome://restart/" id="2655">
+    <bookmark href="edge://restart/" id="2666">
       <title>Restart</title>
     </bookmark>
-    <bookmark href="chrome://settings/profiles" id="2656">
+    <bookmark href="edge://settings/profiles" id="2667">
       <title>Settings</title>
     </bookmark>
-    <bookmark href="chrome://settings/defaultBrowser" id="2657">
+    <bookmark href="edge://settings/defaultBrowser" id="2668">
       <title>Default</title>
     </bookmark>
-    <bookmark href="chrome://wallet/passwords?source=assetsSettingsPasswords" id="2658">
+    <bookmark href="edge://wallet/passwords?source=assetsSettingsPasswords" id="2669">
       <title>Passwords</title>
     </bookmark>
     <bookmark href="https://outlook.office.com/calendar/view/month" id="90">
@@ -734,10 +734,10 @@
   <bookmark href="https://outlook.office.com/" id="2510">
     <title>Mail</title>
   </bookmark>
-  <bookmark href="chrome://restart/" id="2659">
+  <bookmark href="edge://restart/" id="2670">
     <title>Restart Chrome</title>
   </bookmark>
-  <bookmark href="chrome://settings/downloads" id="2660">
+  <bookmark href="edge://settings/downloads" id="2671">
     <title>Downloads Settings</title>
   </bookmark>
   <bookmark href="https://chat.google.com/app/home" id="39">
@@ -2951,7 +2951,7 @@
         <bookmark href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html" id="1384">
           <title>pandas.DataFrame.replace — pandas 1.2.4 documentation</title>
         </bookmark>
-        <bookmark href="chrome://restart/" id="2661">
+        <bookmark href="edge://restart/" id="2672">
           <title>Restart</title>
         </bookmark>
       </folder>
@@ -5881,7 +5881,7 @@
     <bookmark href="https://m365.cloud.microsoft/chat/agent/T_ae70b447-4b04-5b0a-f4a8-df85faf6c750.dd75a983-072c-450f-94f0-c7ca2df63a26.gpt.default?auth=2&amp;home=1&amp;from=ShellLogo&amp;username=Deepak.Gupta%40uvmhealth.org&amp;login_hint=Deepak.Gupta%40uvmhealth.org" id="921">
       <title>M365 Copilot</title>
     </bookmark>
-    <bookmark href="chrome://settings/privacy/services/search" id="2662">
+    <bookmark href="edge://settings/privacy/services/search" id="2673">
       <title>Settings</title>
     </bookmark>
     <bookmark href="http://bit.ly/lcomemail" id="2392">
@@ -5893,7 +5893,7 @@
     <bookmark href="https://onenote.cloud.microsoft/notebooks/?wdOrigin=ONENOTEONLINE.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" id="2465">
       <title>UVMH OneNote</title>
     </bookmark>
-    <bookmark href="chrome://settings/downloads" id="2663">
+    <bookmark href="edge://settings/downloads" id="2674">
       <title>Settings - Downloads</title>
     </bookmark>
   </folder>
